@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "1.3.4",
+  "versionCode": 9,
+  "versionName": "1.4.0",
   "downloadUrl": "https://raw.githubusercontent.com/HazMat77/hazmat-tv-releases/main/HazMatTV-arm.apk",
-  "releaseNotes": "Bug fix: fixed D-pad/remote focus getting stuck on the back arrow instead of reaching Connect after filling in playlist credentials on Fire TV remotes."
+  "releaseNotes": "TV Guide redesign: in-line live preview with program title/time/description, TiviMate-style category panel with quick-access icon rail. Fixed: live playback now stops when exiting to the Hub. Fixed: new playlists now sync Movies/TV Shows immediately so Search finds everything right away."
 }
