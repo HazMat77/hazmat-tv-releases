@@ -1,6 +1,6 @@
 {
   "versionCode": 7,
   "versionName": "1.3.3",
-  "downloadUrl": "https://raw.githubusercontent.com/HazMat77/hazmat-tv-releases/main/HazMatTV-arm64.apk",
-  "releaseNotes": "Update hosting moved to GitHub - in-app update checks and Firestick downloads now work from anywhere, not just on the home network."
+  "downloadUrl": "https://raw.githubusercontent.com/HazMat77/hazmat-tv-releases/main/HazMatTV-arm.apk",
+  "releaseNotes": "Switched to a single ARM-only APK (covers both 32-bit and 64-bit Fire TV/Firestick hardware in one file) - fixes silent install failures on 32-bit devices caused by the previous arm64-only build."
 }
