@@ -1,6 +1,6 @@
 {
-  "versionCode": 15,
-  "versionName": "1.8.0",
+  "versionCode": 17,
+  "versionName": "1.10.0",
   "downloadUrl": "https://raw.githubusercontent.com/HazMat77/hazmat-tv-releases/main/HazMatTV-arm.apk",
-  "releaseNotes": "Fixed: player controls no longer flash off instantly when pressing OK on the remote. Movies/Shows playback now keeps the screen from sleeping and won't trigger the Fire TV screensaver. Added rewind/fast-forward/stop/closed-captions to the Movies/Shows player, a sleep timer, an optional Auto Frame Rate setting for smoother movie playback, an Exit App button, an external EPG URL option, and channel logo/EPG-source priority settings. The TV Guide side panel now shows labels next to its icons."
+  "releaseNotes": "New on the home screen: My List (your favorite channels) and Recordings, plus the redesigned big Live TV/Movies/TV Shows cards and Multi-Screen. You can now record a live channel straight from the player (record button in the live controls) and play it back later from Recordings. Also: player controls no longer flash off instantly when pressing OK on the remote, Movies/Shows playback keeps the screen from sleeping, and the Movies/Shows player has rewind/fast-forward/stop/closed-captions, a sleep timer, and an optional Auto Frame Rate setting. Your saved playlist logins carry over automatically - no need to re-enter anything."
 }
