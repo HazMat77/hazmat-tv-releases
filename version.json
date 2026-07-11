@@ -1,6 +1,6 @@
 {
-  "versionCode": 11,
-  "versionName": "1.6.0",
+  "versionCode": 12,
+  "versionName": "1.7.0",
   "downloadUrl": "https://raw.githubusercontent.com/HazMat77/hazmat-tv-releases/main/HazMatTV-arm.apk",
-  "releaseNotes": "Updates now download and install directly in-app (bypasses Silk browser, which refuses APK downloads on Fire TV). Guide: removed the empty 30-min look-back strip so the guide is filled with real programs from the start. Fixed: the TV no longer goes into screensaver while a channel is playing. Fixed: playback errors now show a plain message instead of raw technical debug text."
+  "releaseNotes": "Clearer orange focus highlighting throughout the app. Picture-in-Picture now follows you even when only the mini-preview (Home/Guide) is playing, not just the full-screen player. New Settings: auto-start on boot/wake, User-Agent override, UDP proxy override, remote button remapping, and playlist/settings backup & restore. Plus a one-time What's New popup after updates."
 }
