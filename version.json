@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
-  "versionName": "1.5.0",
+  "versionCode": 11,
+  "versionName": "1.6.0",
   "downloadUrl": "https://raw.githubusercontent.com/HazMat77/hazmat-tv-releases/main/HazMatTV-arm.apk",
-  "releaseNotes": "Search: fixed a real performance bug that made search return nothing on large libraries (added indices + query limits). Guide: tapping an already-live channel now opens full-screen. Settings: reorganized into categorized sections (General, Playlists, EPG, Playback, Parental controls, Channel groups, About) with playlist counts, per-playlist/update-all sync, EPG clear, resume-last-channel toggle, and a manual Check for Updates button. Note: this update clears locally cached channels/movies/shows once (a database schema change) - your playlist will need to resync, same as when you first added it."
+  "releaseNotes": "Updates now download and install directly in-app (bypasses Silk browser, which refuses APK downloads on Fire TV). Guide: removed the empty 30-min look-back strip so the guide is filled with real programs from the start. Fixed: the TV no longer goes into screensaver while a channel is playing. Fixed: playback errors now show a plain message instead of raw technical debug text."
 }
