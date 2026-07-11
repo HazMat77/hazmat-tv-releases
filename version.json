@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "1.4.0",
+  "versionCode": 10,
+  "versionName": "1.5.0",
   "downloadUrl": "https://raw.githubusercontent.com/HazMat77/hazmat-tv-releases/main/HazMatTV-arm.apk",
-  "releaseNotes": "TV Guide redesign: in-line live preview with program title/time/description, TiviMate-style category panel with quick-access icon rail. Fixed: live playback now stops when exiting to the Hub. Fixed: new playlists now sync Movies/TV Shows immediately so Search finds everything right away."
+  "releaseNotes": "Search: fixed a real performance bug that made search return nothing on large libraries (added indices + query limits). Guide: tapping an already-live channel now opens full-screen. Settings: reorganized into categorized sections (General, Playlists, EPG, Playback, Parental controls, Channel groups, About) with playlist counts, per-playlist/update-all sync, EPG clear, resume-last-channel toggle, and a manual Check for Updates button. Note: this update clears locally cached channels/movies/shows once (a database schema change) - your playlist will need to resync, same as when you first added it."
 }
