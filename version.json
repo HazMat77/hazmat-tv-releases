@@ -1,6 +1,6 @@
 {
-  "versionCode": 14,
-  "versionName": "1.7.2",
+  "versionCode": 15,
+  "versionName": "1.8.0",
   "downloadUrl": "https://raw.githubusercontent.com/HazMat77/hazmat-tv-releases/main/HazMatTV-arm.apk",
-  "releaseNotes": "New Settings to match TiviMate: PiP-on-Home toggle, confirm-exit-by-second-back toggle, EPG retention/description/update-schedule options with a manual Update EPG button, and per-playlist rename/enable toggles. Verified against a real subscription: the TV Guide now shows programs continuously from the current time with no blank gap."
+  "releaseNotes": "Fixed: player controls no longer flash off instantly when pressing OK on the remote. Movies/Shows playback now keeps the screen from sleeping and won't trigger the Fire TV screensaver. Added rewind/fast-forward/stop/closed-captions to the Movies/Shows player, a sleep timer, an optional Auto Frame Rate setting for smoother movie playback, an Exit App button, an external EPG URL option, and channel logo/EPG-source priority settings. The TV Guide side panel now shows labels next to its icons."
 }
