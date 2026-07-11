@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "1.7.0",
+  "versionCode": 13,
+  "versionName": "1.7.1",
   "downloadUrl": "https://raw.githubusercontent.com/HazMat77/hazmat-tv-releases/main/HazMatTV-arm.apk",
-  "releaseNotes": "Clearer orange focus highlighting throughout the app. Picture-in-Picture now follows you even when only the mini-preview (Home/Guide) is playing, not just the full-screen player. New Settings: auto-start on boot/wake, User-Agent override, UDP proxy override, remote button remapping, and playlist/settings backup & restore. Plus a one-time What's New popup after updates."
+  "releaseNotes": "Fix: TV Guide now also syncs your provider's full EPG guide (xmltv.php), not just the short upcoming-only list, so the currently-airing program shows instead of a blank strip until the next scheduled item. After updating, re-sync your playlist (Settings > Playlists > refresh icon) to pull the fuller guide data."
 }
