@@ -1,6 +1,6 @@
 {
-  "versionCode": 27,
-  "versionName": "1.14.3",
+  "versionCode": 28,
+  "versionName": "1.14.4",
   "downloadUrl": "https://raw.githubusercontent.com/HazMat77/hazmat-tv-releases/main/HazMatTV-arm.apk",
-  "releaseNotes": "Fixed long-press on a real Fire TV/Firestick remote not working - holding OK/Center to add a Movie, TV Show, or Channel to favorites, or to set a reminder in the Guide, silently did nothing on actual remote hardware even though it worked fine with a mouse. Also fixed the TV Guide sometimes losing its entire 3-day listing if the provider's guide data got cut off partway through downloading - it now keeps whatever it received instead of discarding all of it."
+  "releaseNotes": "Fixed the player controls bar: after it auto-hid once, pressing OK could stop bringing it back at all, and the remote's D-pad couldn't be used to select anything inside it (like turning off closed captions) - both were caused by focus getting lost when the bar disappeared. Now the bar always comes back on OK, and the D-pad reliably moves between its buttons (rewind/FF, play, stop, captions, sleep timer, etc)."
 }
