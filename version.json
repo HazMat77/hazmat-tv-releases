@@ -1,6 +1,6 @@
 {
-  "versionCode": 19,
-  "versionName": "1.11.0",
+  "versionCode": 22,
+  "versionName": "1.13.0",
   "downloadUrl": "https://raw.githubusercontent.com/HazMat77/hazmat-tv-releases/main/HazMatTV-arm.apk",
-  "releaseNotes": "Important fixes: Movies/TV Shows/Live TV no longer crash on real accounts with unusual provider data, channels and movies load much faster (the EPG guide now loads in the background instead of blocking everything else), and buffering should be much smoother (quality now adapts to your connection automatically instead of always forcing the highest bitrate). Also fixed Settings/Search being hidden on the home screen, Guide text overlapping, and a stuck update-installer banner. Verified in release-build testing: Movies, TV Shows, and Live TV all load and play correctly with no crashes."
+  "releaseNotes": "Fixed the Live TV/Movies/TV Shows freezing, crashing, and slow loading: those screens were silently re-downloading the entire channel or catalog list every time you opened them, and switching between Guide and Live TV repeatedly kept piling up screens in the background instead of reusing them. Also fixed Settings > Manage channel groups trapping you in the search box on Firestick instead of letting you reach the toggles, restored the back button revealing categories in Guide by default, fixed the channel/movie grid resetting to the top instead of staying where you were after watching something, and added long-press to favorite a channel, movie, or TV show right from its tile. Verified in release-build testing on a real upgrade from an older install with no crashes."
 }
