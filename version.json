@@ -1,6 +1,6 @@
 {
-  "versionCode": 30,
-  "versionName": "1.14.6",
+  "versionCode": 31,
+  "versionName": "1.14.7",
   "downloadUrl": "https://raw.githubusercontent.com/HazMat77/hazmat-tv-releases/main/HazMatTV-arm.apk",
-  "releaseNotes": "Fixed the in-app updater downloading an update successfully but then failing to install it - GitHub's file host doesn't label the download as an installable app, so some Fire TV devices refused to install it even though the file itself was fine. The download is now explicitly tagged as an app package so installation goes through. Also includes the previous update: Movies/TV Shows failing to populate for some accounts due to a single oddly-formatted category from the provider silently canceling the whole sync."
+  "releaseNotes": "This update is signed with a new, permanent signing key instead of a temporary development one - which means this is the last time you'll need to uninstall and restore from a backup. Every update after this one will install directly over the existing app like a normal update should, keeping your playlists and settings in place automatically."
 }
