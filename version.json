@@ -1,6 +1,6 @@
 {
-  "versionCode": 31,
-  "versionName": "1.14.7",
+  "versionCode": 32,
+  "versionName": "1.14.8",
   "downloadUrl": "https://raw.githubusercontent.com/HazMat77/hazmat-tv-releases/main/HazMatTV-arm.apk",
-  "releaseNotes": "This update is signed with a new, permanent signing key instead of a temporary development one - which means this is the last time you'll need to uninstall and restore from a backup. Every update after this one will install directly over the existing app like a normal update should, keeping your playlists and settings in place automatically."
+  "releaseNotes": "Streaming reliability and performance: fixed a background CPU drain (the live stream kept decoding even after switching away to another app), a channel-load slowdown caused by an inefficient database query, and channels that would freeze or show corrupted colors on certain 4K/Dolby Vision streams. The TV Guide now shows the full multi-day schedule instead of just a few hours, Multi-Screen no longer requires opening an account elsewhere first, and two D-pad focus bugs in the Guide screen are fixed."
 }
