@@ -1,6 +1,6 @@
 {
-  "versionCode": 28,
-  "versionName": "1.14.4",
+  "versionCode": 29,
+  "versionName": "1.14.5",
   "downloadUrl": "https://raw.githubusercontent.com/HazMat77/hazmat-tv-releases/main/HazMatTV-arm.apk",
-  "releaseNotes": "Fixed the player controls bar: after it auto-hid once, pressing OK could stop bringing it back at all, and the remote's D-pad couldn't be used to select anything inside it (like turning off closed captions) - both were caused by focus getting lost when the bar disappeared. Now the bar always comes back on OK, and the D-pad reliably moves between its buttons (rewind/FF, play, stop, captions, sleep timer, etc)."
+  "releaseNotes": "Fixed Movies/TV Shows sometimes never populating for an account even though Live TV worked fine - a single oddly-formatted category from the provider was silently canceling the entire Movies or TV Shows sync before anything got saved, with no visible error. Also includes the previous update: the player controls bar always comes back when you press OK, and the D-pad reliably moves between its buttons (rewind/FF, play, stop, captions, sleep timer, etc)."
 }
