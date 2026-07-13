@@ -1,6 +1,6 @@
 {
-  "versionCode": 29,
-  "versionName": "1.14.5",
+  "versionCode": 30,
+  "versionName": "1.14.6",
   "downloadUrl": "https://raw.githubusercontent.com/HazMat77/hazmat-tv-releases/main/HazMatTV-arm.apk",
-  "releaseNotes": "Fixed Movies/TV Shows sometimes never populating for an account even though Live TV worked fine - a single oddly-formatted category from the provider was silently canceling the entire Movies or TV Shows sync before anything got saved, with no visible error. Also includes the previous update: the player controls bar always comes back when you press OK, and the D-pad reliably moves between its buttons (rewind/FF, play, stop, captions, sleep timer, etc)."
+  "releaseNotes": "Fixed the in-app updater downloading an update successfully but then failing to install it - GitHub's file host doesn't label the download as an installable app, so some Fire TV devices refused to install it even though the file itself was fine. The download is now explicitly tagged as an app package so installation goes through. Also includes the previous update: Movies/TV Shows failing to populate for some accounts due to a single oddly-formatted category from the provider silently canceling the whole sync."
 }
