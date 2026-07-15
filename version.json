@@ -1,6 +1,6 @@
 {
-  "versionCode": 33,
-  "versionName": "1.14.9",
+  "versionCode": 34,
+  "versionName": "1.14.10",
   "downloadUrl": "https://raw.githubusercontent.com/HazMat77/hazmat-tv-releases/main/HazMatTV-arm.apk",
-  "releaseNotes": "New: Guide long-press now offers Notify me, Auto-tune, or Record for any upcoming program. Movies and TV Shows now remember where you left off and resume automatically, and you can mark anything watched or unwatched from a long-press. My List is now split into Live TV, Movies, TV Shows, and Recordings so favorites are easier to find.\n\nFixed: channels and program guides now refresh in the background on a schedule instead of making you wait when you open the app, the Guide loads noticeably faster, a bug where the Guide's long-press menu vanished the instant you released the OK button, search results not saving to favorites on long-press, and the app incorrectly shrinking into picture-in-picture mode when opening a stream in an external player."
+  "releaseNotes": "New: Voice search - ask Alexa, Assistant, or your Shield's remote to play a channel or title and HazMat TV will jump straight to it. Movie and TV Show pages now show real cast photos. Manage Groups can now hide/show Movies and TV Shows categories too, not just Live TV. Multi-Screen now offers side-by-side layout in addition to top/bottom. The Hub's widgets are smaller so all three rows fit without scrolling, and 'New Releases' is now 'Newly Added' and sorts correctly. Continue Watching tiles now open the full details page instead of jumping straight into playback.\n\nFixed: movie/show descriptions no longer show leftover foreign-language text, the Trailer button now reliably opens the real trailer, and category selection no longer resets to the default when the app is reclaimed from memory in the background."
 }
