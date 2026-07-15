@@ -1,6 +1,6 @@
 {
-  "versionCode": 36,
-  "versionName": "1.14.12",
+  "versionCode": 37,
+  "versionName": "1.14.13",
   "downloadUrl": "https://raw.githubusercontent.com/HazMat77/hazmat-tv-releases/main/HazMatTV-arm.apk",
-  "releaseNotes": "Fixed: hiding a Movies or TV Shows category in Manage Groups now actually keeps it out of the Hub's Newly Added, Recommended For You, and Continue Watching rows too - it was only being respected on the Movies/TV Shows browse screens before."
+  "releaseNotes": "New: Tap an actor's photo on a Movie or TV Show page to see every other title of theirs that's in this playlist's catalog."
 }
