@@ -1,6 +1,6 @@
 {
-  "versionCode": 40,
-  "versionName": "1.14.16",
+  "versionCode": 41,
+  "versionName": "1.14.17",
   "downloadUrl": "https://raw.githubusercontent.com/HazMat77/hazmat-tv-releases/main/HazMatTV-arm.apk",
-  "releaseNotes": "New: Cast button on Live TV and Movie/TV Show playback - send what you're watching to a Chromecast, Android TV, or Google TV device. Movie and TV Show pages now show the official clean title and US content rating from TMDB instead of the provider's often-mangled title.\n\nFixed: on a TV Show's page, pressing down from Play with your remote skipped right over the cast photos to the season picker - they're now reachable with the D-pad like everything else on the page."
+  "releaseNotes": "New: A one-time notice on first launch about what HazMat TV is and isn't. The Hub's Continue Watching row now shows a TV show's own poster instead of the specific episode's thumbnail (the show's own episode list still shows episode thumbnails, unchanged).\n\nFixed: text fields throughout Settings (User-Agent, UDP proxy, TMDB key, External EPG URL, EPG retention/update interval, rename playlist, group filter, PIN entry) trapped the remote's D-pad once focused, with no way to move on to the next field or button. They now hand focus off properly via the keyboard's Next/Done action."
 }
