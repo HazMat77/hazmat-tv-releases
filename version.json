@@ -1,6 +1,6 @@
 {
-  "versionCode": 42,
-  "versionName": "1.14.18",
+  "versionCode": 43,
+  "versionName": "1.14.19",
   "downloadUrl": "https://raw.githubusercontent.com/HazMat77/hazmat-tv-releases/main/HazMatTV-arm.apk",
-  "releaseNotes": "New: Settings > Playlists now shows each provider's max simultaneous connections, and can be sorted by name or reordered manually with new up/down buttons on each playlist."
+  "releaseNotes": "New: A Settings > Player buttons section lets you reorder or hide buttons on the Live TV player's bottom bar. Settings > Remote now has a Catch-up seeking option (RW/FF, Left/Right, or Up/Down) and a plain-text reference for what OK/Back do in the Guide and Player."
 }
