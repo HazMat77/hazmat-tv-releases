@@ -1,6 +1,6 @@
 {
-  "versionCode": 38,
-  "versionName": "1.14.14",
+  "versionCode": 40,
+  "versionName": "1.14.16",
   "downloadUrl": "https://raw.githubusercontent.com/HazMat77/hazmat-tv-releases/main/HazMatTV-arm.apk",
-  "releaseNotes": "Fixed: Movie and TV Show detail pages were waiting on two separate network calls (the provider, then TMDB for cast photos) before showing anything at all. The page now shows as soon as the provider responds, with cast photos popping in a moment later instead of holding up the whole page."
+  "releaseNotes": "New: Cast button on Live TV and Movie/TV Show playback - send what you're watching to a Chromecast, Android TV, or Google TV device. Movie and TV Show pages now show the official clean title and US content rating from TMDB instead of the provider's often-mangled title.\n\nFixed: on a TV Show's page, pressing down from Play with your remote skipped right over the cast photos to the season picker - they're now reachable with the D-pad like everything else on the page."
 }
