@@ -1,6 +1,6 @@
 {
-  "versionCode": 37,
-  "versionName": "1.14.13",
+  "versionCode": 38,
+  "versionName": "1.14.14",
   "downloadUrl": "https://raw.githubusercontent.com/HazMat77/hazmat-tv-releases/main/HazMatTV-arm.apk",
-  "releaseNotes": "New: Tap an actor's photo on a Movie or TV Show page to see every other title of theirs that's in this playlist's catalog."
+  "releaseNotes": "Fixed: Movie and TV Show detail pages were waiting on two separate network calls (the provider, then TMDB for cast photos) before showing anything at all. The page now shows as soon as the provider responds, with cast photos popping in a moment later instead of holding up the whole page."
 }
