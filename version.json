@@ -1,6 +1,6 @@
 {
-  "versionCode": 45,
-  "versionName": "1.14.21",
+  "versionCode": 46,
+  "versionName": "1.14.22",
   "downloadUrl": "https://raw.githubusercontent.com/HazMat77/hazmat-tv-releases/main/HazMatTV-arm.apk",
-  "releaseNotes": "New: Settings > Playback gained a Decoder & audio section (decoder preference, audio passthrough, tunneled playback) and Auto Frame Rate is now split into separate Live TV/Movies-TV Shows toggles with options for switching resolution too, restricting to 50/60fps content, and a delay before switching."
+  "releaseNotes": "New: My List now combines favorites from every provider together; Multi-Screen can open a 2x2 Quad view when 4+ connections are available; TV Guide shows 'No information' instead of a blank gap and Settings > EPG has one-tap free EPG quick-fill presets for channels with no guide data; and Settings > General has a new 'App opens to' section to pick your default screen."
 }
