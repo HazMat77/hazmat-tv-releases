@@ -1,6 +1,6 @@
 {
-  "versionCode": 44,
-  "versionName": "1.14.20",
+  "versionCode": 45,
+  "versionName": "1.14.21",
   "downloadUrl": "https://raw.githubusercontent.com/HazMat77/hazmat-tv-releases/main/HazMatTV-arm.apk",
-  "releaseNotes": "Fixed: opening Settings > EPG immediately popped up the on-screen keyboard on the External EPG URL field before you'd touched anything, trapping the D-pad until you dismissed it. That field no longer grabs focus just from entering the screen - it's still right there if you want it, one press up from where focus now lands."
+  "releaseNotes": "New: Settings > Playback gained a Decoder & audio section (decoder preference, audio passthrough, tunneled playback) and Auto Frame Rate is now split into separate Live TV/Movies-TV Shows toggles with options for switching resolution too, restricting to 50/60fps content, and a delay before switching."
 }
