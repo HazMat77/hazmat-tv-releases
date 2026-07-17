@@ -1,6 +1,6 @@
 {
-  "versionCode": 50,
-  "versionName": "1.14.26",
+  "versionCode": 51,
+  "versionName": "1.14.27",
   "downloadUrl": "https://raw.githubusercontent.com/HazMat77/hazmat-tv-releases/main/HazMatTV-arm.apk",
-  "releaseNotes": "Fix: D-pad couldn't move at all inside My List's Favorite Channels/Movies/TV Shows screens - the very first tile never actually took focus, so arrow keys had nothing to move from. Also: if Movies/TV Shows looked empty right after opening the app, that was a slow background EPG sync temporarily blocking the database, not lost data - it clears up within about a minute of launch."
+  "releaseNotes": "Fix: some multichannel (5.1/7.1) movies and shows failed to play at all on certain devices - audio now downmixes to stereo when a device can't create a surround AudioTrack, instead of crashing playback outright. Fix: the Play button on Movie/TV Show detail pages didn't have D-pad focus when the page first opened, so the first remote press could silently do nothing or go back instead of playing. Fix: My List's Movies/TV Shows favorites could take several seconds to appear because of an inefficient database query - now queried directly instead of loading the whole catalog. Fix: the Trailer button's Silk/YouTube picker could take 2-3 attempts to select on Fire TV - it now launches YouTube directly when installed."
 }
