@@ -1,6 +1,6 @@
 {
-  "versionCode": 48,
-  "versionName": "1.14.24",
+  "versionCode": 49,
+  "versionName": "1.14.25",
   "downloadUrl": "https://raw.githubusercontent.com/HazMat77/hazmat-tv-releases/main/HazMatTV-arm.apk",
-  "releaseNotes": "Fix: playing anything crashed the app on phones/tablets with Google Play Services (the Cast button's setup wasn't finding the theme attributes it needs and crashed the whole screen instead of just failing quietly) - this only ever affected phone/tablet installs, not Fire TV Stick."
+  "releaseNotes": "Playback: shortened how long the picture stays frozen after a brief network hiccup on the Smooth and Maximum stability buffer profiles - a stutter now recovers in roughly half the time it used to, without changing how much buffer cushion exists to avoid one happening in the first place."
 }
