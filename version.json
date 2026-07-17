@@ -1,6 +1,6 @@
 {
-  "versionCode": 47,
-  "versionName": "1.14.23",
+  "versionCode": 48,
+  "versionName": "1.14.24",
   "downloadUrl": "https://raw.githubusercontent.com/HazMat77/hazmat-tv-releases/main/HazMatTV-arm.apk",
-  "releaseNotes": "New: Settings > Parental controls can now require the PIN separately for Settings, Playlists, EPG, and Channel groups; a new Reminders screen lists and cancels everything scheduled from TV Guide; Settings > About gained an auto-update toggle, a Clear image cache button, a language picker scaffold, and Terms of Use/Privacy Policy screens; and Backup & restore now covers every setting added across recent updates."
+  "releaseNotes": "Fix: playing anything crashed the app on phones/tablets with Google Play Services (the Cast button's setup wasn't finding the theme attributes it needs and crashed the whole screen instead of just failing quietly) - this only ever affected phone/tablet installs, not Fire TV Stick."
 }
