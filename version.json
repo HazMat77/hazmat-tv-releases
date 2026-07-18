@@ -1,6 +1,6 @@
 {
-  "versionCode": 56,
-  "versionName": "1.14.32",
+  "versionCode": 57,
+  "versionName": "1.14.33",
   "downloadUrl": "https://raw.githubusercontent.com/HazMat77/hazmat-tv-releases/main/HazMatTV-arm.apk",
-  "releaseNotes": "Urgent fix: the multichannel audio fix crashed plain 2-channel (stereo) content - the vast majority of all audio - with a 'No mixing matrix' error, since it only handled 3-8 channel tracks. Movies/shows now play regardless of audio channel count. New: a video decoder that corrupts or freezes on real playback is now detected automatically from excessive dropped frames and permanently avoided on that device from then on. Performance: poster/backdrop images now decode at half the memory and CPU cost, cutting janky scrolling on low-RAM devices. Fix: a Dolby Vision decoder variant (DVAV) wasn't being filtered out like its DVHE counterpart. Tweak: buffer depth increased slightly on the Smooth profile."
+  "releaseNotes": "Urgent fix: v1.14.32's stereo-audio fix registered a matrix for 2-channel tracks but still upmixed them to 8 channels, which crashed plain stereo AAC playback with a different error ('Cannot create AudioTrack' for the resulting 8-channel config). Stereo and mono audio are now left completely untouched - only genuine multichannel (5.1/7.1) content gets padded to 8 channels. New: a video decoder that corrupts or freezes on real playback is now detected automatically from excessive dropped frames and permanently avoided on that device from then on. Performance: poster/backdrop images now decode at half the memory and CPU cost, cutting janky scrolling on low-RAM devices. Fix: a Dolby Vision decoder variant (DVAV) wasn't being filtered out like its DVHE counterpart. Tweak: buffer depth increased slightly on the Smooth profile."
 }
