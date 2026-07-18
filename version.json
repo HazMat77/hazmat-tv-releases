@@ -1,6 +1,6 @@
 {
-  "versionCode": 51,
-  "versionName": "1.14.27",
+  "versionCode": 53,
+  "versionName": "1.14.29",
   "downloadUrl": "https://raw.githubusercontent.com/HazMat77/hazmat-tv-releases/main/HazMatTV-arm.apk",
-  "releaseNotes": "Fix: some multichannel (5.1/7.1) movies and shows failed to play at all on certain devices - audio now downmixes to stereo when a device can't create a surround AudioTrack, instead of crashing playback outright. Fix: the Play button on Movie/TV Show detail pages didn't have D-pad focus when the page first opened, so the first remote press could silently do nothing or go back instead of playing. Fix: My List's Movies/TV Shows favorites could take several seconds to appear because of an inefficient database query - now queried directly instead of loading the whole catalog. Fix: the Trailer button's Silk/YouTube picker could take 2-3 attempts to select on Fire TV - it now launches YouTube directly when installed."
+  "releaseNotes": "Fix: multichannel audio (5.1/7.1) now pads to 8 channels instead of downmixing to stereo - matches the channel count confirmed working on this hardware, fixing movies/shows that previously crashed on playback. Fix: a Dolby Vision decoder variant (DVAV) wasn't being filtered out like its DVHE counterpart, causing some 4K HDR episodes to crash on the video decoder. Tweak: buffer depth increased slightly on the Smooth profile to better absorb brief provider-side delivery dips without a visible stall."
 }
