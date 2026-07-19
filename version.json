@@ -1,6 +1,6 @@
 {
-  "versionCode": 61,
-  "versionName": "1.14.37",
+  "versionCode": 62,
+  "versionName": "1.14.38",
   "downloadUrl": "https://raw.githubusercontent.com/HazMat77/hazmat-tv-releases/main/HazMatTV-arm.apk",
-  "releaseNotes": "New: movies/shows with no poster art from your provider now fall back to a TMDB-matched poster automatically, in Movies, TV Shows, and My List. Fix: the fallback wasn't actually matching anything at first - provider titles often carry a release year or quality/language tag baked into the name itself (e.g. \"4K-EN - Deep Water (2022)\"), which TMDB's search doesn't tolerate; the title is now cleaned before searching. Fix: after viewing a movie or show's info page from My List and backing out, focus could get stranded on the back button, making it impossible to pick another title without fully leaving and re-entering My List."
+  "releaseNotes": "Fix: a full EPG guide sync (thousands of channels x days of programming) was inserted into the database as one giant transaction, holding the write lock long enough (30+ seconds, measured on a real Fire TV Stick) to stall unrelated screens like My List loading and to noticeably delay D-pad input. Guide data is now written in small batches so other screens aren't blocked behind it. New: movies/shows with no poster art from your provider now fall back to a TMDB-matched poster automatically, in Movies, TV Shows, and My List. Fix: the fallback wasn't actually matching anything at first - provider titles often carry a release year or quality/language tag baked into the name itself (e.g. \"4K-EN - Deep Water (2022)\"), which TMDB's search doesn't tolerate; the title is now cleaned before searching. Fix: after viewing a movie or show's info page from My List and backing out, focus could get stranded on the back button, making it impossible to pick another title without fully leaving and re-entering My List."
 }
