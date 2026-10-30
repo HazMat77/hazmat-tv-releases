@@ -1,8 +1,8 @@
 {
-  "versionCode": 64,
-  "versionName": "1.14.40",
+  "versionCode": 66,
+  "versionName": "1.14.42",
   "downloadUrl": "https://raw.githubusercontent.com/HazMat77/hazmat-tv-releases/main/HazMatTV-arm.apk",
   "downloadUrlArm64": "https://raw.githubusercontent.com/HazMat77/hazmat-tv-releases/main/HazMatTV-arm64.apk",
   "downloadUrlArm32": "https://raw.githubusercontent.com/HazMat77/hazmat-tv-releases/main/HazMatTV-arm32.apk",
-  "releaseNotes": "Fix: adding a provider could fail where other apps connect fine. Stalker/MAC portals given the /c/ address were queried at a path that does not exist, and the box identified itself with blank serial/device ids - it now behaves like a real MAG250 and finds the portal API location itself. Xtream usernames/passwords containing & + # % or spaces are now URL-encoded instead of corrupting the login, pasted server addresses ending in /player_api.php or /c are cleaned up, requests no longer identify as okhttp (commonly blocked by panels), and a failed connect now says why. Smaller download: Fire Stick and Google TV boxes each get their own ~30MB build instead of one 52MB file. Fix: voice search on Shield/Google TV could fall through to a generic Play Store search - the suggestion provider was missing columns Google's Android TV contract requires. Fix: a full EPG guide sync was written as one giant database transaction that stalled other screens and delayed D-pad input; it is now batched. New: movies/shows with no provider poster fall back to a TMDB-matched poster. Fix: focus no longer gets stranded on the back button after viewing a title from My List."
+  "releaseNotes": "Much smaller app: the download drops from about 30-50MB to about 7MB. The VLC player engine (24MB, only needed for a few unusual streams and Dolby Vision channels) is no longer bundled - it downloads automatically the first time it is needed, or when you pick VLC under Settings > Player engine. Until it is installed, playback uses ExoPlayer. New: in Live TV and the TV Guide, pressing Down on the last category jumps back to the top of the list instead of stopping at the bottom. Includes the earlier provider-connection fixes, poster fallback, voice search and My List focus fixes."
 }
