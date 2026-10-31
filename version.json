@@ -1,8 +1,8 @@
 {
-  "versionCode": 66,
-  "versionName": "1.14.42",
+  "versionCode": 67,
+  "versionName": "1.15.0",
   "downloadUrl": "https://raw.githubusercontent.com/HazMat77/hazmat-tv-releases/main/HazMatTV-arm.apk",
   "downloadUrlArm64": "https://raw.githubusercontent.com/HazMat77/hazmat-tv-releases/main/HazMatTV-arm64.apk",
   "downloadUrlArm32": "https://raw.githubusercontent.com/HazMat77/hazmat-tv-releases/main/HazMatTV-arm32.apk",
-  "releaseNotes": "Much smaller app: the download drops from about 30-50MB to about 7MB. The VLC player engine (24MB, only needed for a few unusual streams and Dolby Vision channels) is no longer bundled - it downloads automatically the first time it is needed, or when you pick VLC under Settings > Player engine. Until it is installed, playback uses ExoPlayer. New: in Live TV and the TV Guide, pressing Down on the last category jumps back to the top of the list instead of stopping at the bottom. Includes the earlier provider-connection fixes, poster fallback, voice search and My List focus fixes."
+  "releaseNotes": "HazMat TV is now built the Starfleet way: Home with widgets (highlight Movies, TV Shows, Live TV, Anime, Sports, Radio or Settings to see its widgets), autoplay trailers in English, Continue Watching, Favorites (on your profile or a TMDB list), cast with photos (open an actor to see everything they have been in), release and air dates, certification and the content advisory. Pair premium services and your trackers (Simkl, Trakt, WeTrakr, MDBList) in Settings; IPTV movies and shows are a source on every title and listed under IPTV Movies / IPTV TV Shows. Profiles, My Teams alerts (including the FloHockey leagues), split screen (side by side or top and bottom, mixing IPTV, movies and live sports), and Left / Right now skip back and forward during playback. Your IPTV providers, debrid pairings and trackers carry over from the old version. Needs Android 7 or newer."
 }
