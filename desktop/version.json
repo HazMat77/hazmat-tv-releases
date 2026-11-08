@@ -1,10 +1,10 @@
 {
-  "versionCode": 161,
-  "versionName": "1.16.88",
-  "downloadUrl": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.88/HazMatTV-1.16.88-win64.zip",
-  "downloadUrlWindows": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.88/HazMatTV-1.16.88-win64.zip",
-  "sha256Windows": "dc2b1f58503536cc5c5a9fbde4fea0871dbb5695885aac9de339af9a3ab90862",
-  "downloadUrlLinux": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.88/HazMatTV-1.16.88-linux-x64.tar.gz",
-  "sha256Linux": "0d9ccd4aaab5ae47d695feb10940410555a0312b6753d6118ba0a49cb51be521",
-  "releaseNotes": "Split Screen now works without an IPTV provider (Live TV dialog, Free TV channels, movies and shows from the Starfleet sources, live sports). Sync accounts also carries the phone-remote and broken-link-report switches and offers to restore a backup after you pair Telegram."
+  "versionCode": 162,
+  "versionName": "1.16.89",
+  "downloadUrl": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.89/HazMatTV-1.16.89-win64.zip",
+  "downloadUrlWindows": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.89/HazMatTV-1.16.89-win64.zip",
+  "sha256Windows": "7bad80933d54e3d5cdeeaf142b444a9ce74d5a2864e590bf969e9f75f7c45a69",
+  "downloadUrlLinux": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.89/HazMatTV-1.16.89-linux-x64.tar.gz",
+  "sha256Linux": "4765141ce7c9e3619a12d0c23f8d356a27adedca804e3c017aafaa85e8e5c076",
+  "releaseNotes": "Restoring accounts now switches the restored debrid services on (Premiumize, Real-Debrid and the rest), the Telegram pairing QR is large enough to scan, and Restore says clearly when no backup is stored for your Telegram account."
 }
