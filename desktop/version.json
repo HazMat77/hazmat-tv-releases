@@ -1,10 +1,10 @@
 {
-  "versionCode": 159,
-  "versionName": "1.16.86",
-  "downloadUrl": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.86/HazMatTV-1.16.86-win64.zip",
-  "downloadUrlWindows": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.86/HazMatTV-1.16.86-win64.zip",
-  "sha256Windows": "2240796a24b0ee0102e8b43d82a7a8bfa4d28b6e23f2fddd733fc8c59d666478",
-  "downloadUrlLinux": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.86/HazMatTV-1.16.86-linux-x64.tar.gz",
-  "sha256Linux": "18069e79337549f8e880b60481db4ec55bbb75fb05881db9f66e502b2149248d",
-  "releaseNotes": "First desktop release: Windows and Linux. Sync accounts, Start with Windows / Linux, in-app update that checks its download and installs itself."
+  "versionCode": 160,
+  "versionName": "1.16.87",
+  "downloadUrl": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.87/HazMatTV-1.16.87-win64.zip",
+  "downloadUrlWindows": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.87/HazMatTV-1.16.87-win64.zip",
+  "sha256Windows": "8986924b32c3fd06716fcc8ceacfc174ee40d3226584e25282b31cd33d435843",
+  "downloadUrlLinux": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.87/HazMatTV-1.16.87-linux-x64.tar.gz",
+  "sha256Linux": "39712eaddf7b6a67a86ef8d66a5e1a31e8e32dc2ac01b5d1b76ae503bcfb9ba4",
+  "releaseNotes": "Sync accounts now also carries your phone-remote and broken-link-report switches, and after you pair Telegram the app offers to restore a backup it finds."
 }
