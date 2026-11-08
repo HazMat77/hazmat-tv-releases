@@ -1,0 +1,10 @@
+{
+  "versionCode": 159,
+  "versionName": "1.16.86",
+  "downloadUrl": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.86/HazMatTV-1.16.86-win64.zip",
+  "downloadUrlWindows": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.86/HazMatTV-1.16.86-win64.zip",
+  "sha256Windows": "2240796a24b0ee0102e8b43d82a7a8bfa4d28b6e23f2fddd733fc8c59d666478",
+  "downloadUrlLinux": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.86/HazMatTV-1.16.86-linux-x64.tar.gz",
+  "sha256Linux": "18069e79337549f8e880b60481db4ec55bbb75fb05881db9f66e502b2149248d",
+  "releaseNotes": "First desktop release: Windows and Linux. Sync accounts, Start with Windows / Linux, in-app update that checks its download and installs itself."
+}
