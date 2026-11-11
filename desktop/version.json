@@ -1,10 +1,10 @@
 {
-  "versionCode": 162,
-  "versionName": "1.16.89",
-  "downloadUrl": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.89/HazMatTV-1.16.89-win64.zip",
-  "downloadUrlWindows": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.89/HazMatTV-1.16.89-win64.zip",
-  "sha256Windows": "7bad80933d54e3d5cdeeaf142b444a9ce74d5a2864e590bf969e9f75f7c45a69",
-  "downloadUrlLinux": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.89/HazMatTV-1.16.89-linux-x64.tar.gz",
-  "sha256Linux": "4765141ce7c9e3619a12d0c23f8d356a27adedca804e3c017aafaa85e8e5c076",
-  "releaseNotes": "Restoring accounts now switches the restored debrid services on (Premiumize, Real-Debrid and the rest), the Telegram pairing QR is large enough to scan, and Restore says clearly when no backup is stored for your Telegram account."
+  "versionCode": 168,
+  "versionName": "1.16.95",
+  "downloadUrl": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.95/HazMatTV-1.16.95-win64.zip",
+  "downloadUrlWindows": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.95/HazMatTV-1.16.95-win64.zip",
+  "sha256Windows": "24153253229e3476835f6818e472a7a45e2e5c298fee9d21c44f621e8c742c45",
+  "downloadUrlLinux": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.95/HazMatTV-1.16.95-linux-x64.tar.gz",
+  "sha256Linux": "c883f75de283f1380bc1aa6efcd8c2c9e2e884384c96ce838c236faf2887274e",
+  "releaseNotes": "Sync accounts now backs up the live debrid logins with what they need to renew, reports to the developer say which app and device they come from, a stream that drops can be reported, live game links get a fresh address when theirs expired, DaddyLive / DLHD works again, and Montreal Canadiens games list RDS (weekdays) or TVA Sports (Saturdays) as a source."
 }
