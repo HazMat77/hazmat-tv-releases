@@ -1,10 +1,10 @@
 {
-  "versionCode": 190,
-  "versionName": "1.16.117",
-  "downloadUrl": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.117/HazMatTV-1.16.117-win64.zip",
-  "downloadUrlWindows": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.117/HazMatTV-1.16.117-win64.zip",
-  "sha256Windows": "a00534ca80428c5b5490523dd920b9a84afe945f9a438be436f70fafe1eec9d0",
-  "downloadUrlLinux": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.117/HazMatTV-1.16.117-linux-x64.tar.gz",
-  "sha256Linux": "221dd661a86e8043d270bf13d1d7f13ee6c44bb3f4577d7a69f37a8f2ce3fc24",
-  "releaseNotes": "The adult sites watchpornx, streamporn and adultdvdparadise list and play again after their layout change."
+  "versionCode": 191,
+  "versionName": "1.16.118",
+  "downloadUrl": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.118/HazMatTV-1.16.118-win64.zip",
+  "downloadUrlWindows": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.118/HazMatTV-1.16.118-win64.zip",
+  "sha256Windows": "85b876cbf33168e8565677558a70bde095f219fddcba81d22de62ab8e1c60645",
+  "downloadUrlLinux": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.118/HazMatTV-1.16.118-linux-x64.tar.gz",
+  "sha256Linux": "00f649c1a1388b43bde6418b79ebe3588efee7cb53f560af7f1d7433da6ff2cf",
+  "releaseNotes": "Soccer replays from fullmatchshows.com added to the soccer replay list."
 }
