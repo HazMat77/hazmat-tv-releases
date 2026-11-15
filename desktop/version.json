@@ -1,10 +1,10 @@
 {
-  "versionCode": 198,
-  "versionName": "1.16.125",
-  "downloadUrl": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.125/HazMatTV-1.16.125-win64.zip",
-  "downloadUrlWindows": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.125/HazMatTV-1.16.125-win64.zip",
-  "sha256Windows": "3014b1aea1d0c442c46ee10fb12b1e2bbb3a985c6b308d57d441b551b1433cec",
-  "downloadUrlLinux": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.125/HazMatTV-1.16.125-linux-x64.tar.gz",
-  "sha256Linux": "66d402d4b30c7d5e40a09397b525cf16af1bf453aefa8cc96c76999735eb2a63",
-  "releaseNotes": "Favorites from your TMDB list show again, the Telegram QR is sharper, IPTV Movies and TV Shows play, and the app icon opens right away."
+  "versionCode": 199,
+  "versionName": "1.16.126",
+  "downloadUrl": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.126/HazMatTV-1.16.126-win64.zip",
+  "downloadUrlWindows": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.126/HazMatTV-1.16.126-win64.zip",
+  "sha256Windows": "1a0114a52a7da5be8a122a7c933187d72af050aadf464094900ada8fdde8ccce",
+  "downloadUrlLinux": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.126/HazMatTV-1.16.126-linux-x64.tar.gz",
+  "sha256Linux": "ba3d0f0b1a2fec99fce1f8baab5e43c9808717b96123b811af7a7cba05bbe232",
+  "releaseNotes": "The installer now starts HazMat TV by itself when it finishes, the in-app update no longer hangs, large provider lists no longer close the app, IPTV movies play, and Vidrift is a new free source."
 }
