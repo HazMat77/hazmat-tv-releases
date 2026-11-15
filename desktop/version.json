@@ -1,10 +1,10 @@
 {
-  "versionCode": 193,
-  "versionName": "1.16.120",
-  "downloadUrl": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.120/HazMatTV-1.16.120-win64.zip",
-  "downloadUrlWindows": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.120/HazMatTV-1.16.120-win64.zip",
-  "sha256Windows": "c8be83a303be21ed2d7eb067f2ba922112f54f6f5e8382c2c2f0ef2a56970546",
-  "downloadUrlLinux": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.120/HazMatTV-1.16.120-linux-x64.tar.gz",
-  "sha256Linux": "2b0faacf1715721182e47cffa100bffa720451476c366c06aa443bfc267d0637",
-  "releaseNotes": "A Movies row for every holiday, with the ones coming up shown first."
+  "versionCode": 198,
+  "versionName": "1.16.125",
+  "downloadUrl": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.125/HazMatTV-1.16.125-win64.zip",
+  "downloadUrlWindows": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.125/HazMatTV-1.16.125-win64.zip",
+  "sha256Windows": "3014b1aea1d0c442c46ee10fb12b1e2bbb3a985c6b308d57d441b551b1433cec",
+  "downloadUrlLinux": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.125/HazMatTV-1.16.125-linux-x64.tar.gz",
+  "sha256Linux": "66d402d4b30c7d5e40a09397b525cf16af1bf453aefa8cc96c76999735eb2a63",
+  "releaseNotes": "Favorites from your TMDB list show again, the Telegram QR is sharper, IPTV Movies and TV Shows play, and the app icon opens right away."
 }
