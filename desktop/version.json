@@ -1,10 +1,10 @@
 {
-  "versionCode": 188,
-  "versionName": "1.16.115",
-  "downloadUrl": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.115/HazMatTV-1.16.115-win64.zip",
-  "downloadUrlWindows": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.115/HazMatTV-1.16.115-win64.zip",
-  "sha256Windows": "e11d14b006adb474a040b4880f6d34cec8e5363cdf7927c4c9f631e0f1857d0c",
-  "downloadUrlLinux": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.115/HazMatTV-1.16.115-linux-x64.tar.gz",
-  "sha256Linux": "1de03bf016bc5c459878736aa751231a18bf92e6ea59a53c498f43c247a8181a",
-  "releaseNotes": "Sports pages show today's and tomorrow's games in the morning, and free sources for TV episodes work again."
+  "versionCode": 189,
+  "versionName": "1.16.116",
+  "downloadUrl": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.116/HazMatTV-1.16.116-win64.zip",
+  "downloadUrlWindows": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.116/HazMatTV-1.16.116-win64.zip",
+  "sha256Windows": "5d822d12972a6d26a27048c36ad11c94c6326742d41ba3e1a68fe6e7ebb5415d",
+  "downloadUrlLinux": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.116/HazMatTV-1.16.116-linux-x64.tar.gz",
+  "sha256Linux": "c6fd2974b08567dc3e1dde8fa4037fb5196119a8adcb2acf395749577f9a2893",
+  "releaseNotes": "NFL replays from nfl-replays.com added to the NFL replay list."
 }
