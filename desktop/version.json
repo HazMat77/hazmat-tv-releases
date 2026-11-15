@@ -1,10 +1,10 @@
 {
-  "versionCode": 191,
-  "versionName": "1.16.118",
-  "downloadUrl": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.118/HazMatTV-1.16.118-win64.zip",
-  "downloadUrlWindows": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.118/HazMatTV-1.16.118-win64.zip",
-  "sha256Windows": "85b876cbf33168e8565677558a70bde095f219fddcba81d22de62ab8e1c60645",
-  "downloadUrlLinux": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.118/HazMatTV-1.16.118-linux-x64.tar.gz",
-  "sha256Linux": "00f649c1a1388b43bde6418b79ebe3588efee7cb53f560af7f1d7433da6ff2cf",
-  "releaseNotes": "Soccer replays from fullmatchshows.com added to the soccer replay list."
+  "versionCode": 192,
+  "versionName": "1.16.119",
+  "downloadUrl": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.119/HazMatTV-1.16.119-win64.zip",
+  "downloadUrlWindows": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.119/HazMatTV-1.16.119-win64.zip",
+  "sha256Windows": "baada9698581c7134ee79da5979a72adcb1e3d50cfa8ea7f25be70220f806f02",
+  "downloadUrlLinux": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.119/HazMatTV-1.16.119-linux-x64.tar.gz",
+  "sha256Linux": "c36b9fbed3c1c8ee91a69290a1a62ce76a3a9a34465879c1561b947d9c184fd3",
+  "releaseNotes": "The quick half of the free embed sources now answers in about 2 seconds instead of up to 10."
 }
