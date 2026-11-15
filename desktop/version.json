@@ -1,10 +1,10 @@
 {
-  "versionCode": 168,
-  "versionName": "1.16.95",
-  "downloadUrl": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.95/HazMatTV-1.16.95-win64.zip",
-  "downloadUrlWindows": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.95/HazMatTV-1.16.95-win64.zip",
-  "sha256Windows": "24153253229e3476835f6818e472a7a45e2e5c298fee9d21c44f621e8c742c45",
-  "downloadUrlLinux": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.95/HazMatTV-1.16.95-linux-x64.tar.gz",
-  "sha256Linux": "c883f75de283f1380bc1aa6efcd8c2c9e2e884384c96ce838c236faf2887274e",
-  "releaseNotes": "Sync accounts now backs up the live debrid logins with what they need to renew, reports to the developer say which app and device they come from, a stream that drops can be reported, live game links get a fresh address when theirs expired, DaddyLive / DLHD works again, and Montreal Canadiens games list RDS (weekdays) or TVA Sports (Saturdays) as a source."
+  "versionCode": 188,
+  "versionName": "1.16.115",
+  "downloadUrl": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.115/HazMatTV-1.16.115-win64.zip",
+  "downloadUrlWindows": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.115/HazMatTV-1.16.115-win64.zip",
+  "sha256Windows": "e11d14b006adb474a040b4880f6d34cec8e5363cdf7927c4c9f631e0f1857d0c",
+  "downloadUrlLinux": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.115/HazMatTV-1.16.115-linux-x64.tar.gz",
+  "sha256Linux": "1de03bf016bc5c459878736aa751231a18bf92e6ea59a53c498f43c247a8181a",
+  "releaseNotes": "Sports pages show today's and tomorrow's games in the morning, and free sources for TV episodes work again."
 }
