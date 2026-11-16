@@ -1,10 +1,10 @@
 {
-  "versionCode": 200,
-  "versionName": "1.16.127",
-  "downloadUrl": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.127/HazMatTV-1.16.127-win64.zip",
-  "downloadUrlWindows": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.127/HazMatTV-1.16.127-win64.zip",
-  "sha256Windows": "50d9ebbdbdc0eedd2ff5f2ecb676866934be48e7d2bb5b88c2a2c586ec924d73",
-  "downloadUrlLinux": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.127/HazMatTV-1.16.127-linux-x64.tar.gz",
-  "sha256Linux": "87a5fc7ade5740fbbd4c6ecd048dc1fe83ef9d65973951ca798a0fe2604fa3cb",
-  "releaseNotes": "Cast to several rooms at once, the cast card shows the people in that episode, actor pages show episode counts with seasons and episodes, Quiet mode, a prompt to switch a buffering source, and faster searches."
+  "versionCode": 201,
+  "versionName": "1.16.128",
+  "downloadUrl": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.128/HazMatTV-1.16.128-win64.zip",
+  "downloadUrlWindows": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.128/HazMatTV-1.16.128-win64.zip",
+  "sha256Windows": "56a79c8fc71158077379f7d45537d755a08cce89b51eadd8a6188f3750389d15",
+  "downloadUrlLinux": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.128/HazMatTV-1.16.128-linux-x64.tar.gz",
+  "sha256Linux": "41571da9cb6737f63556cacc64746eadf04e9ce1eb56f1cde0b4426da2623190",
+  "releaseNotes": "Smoother 4K playback (the hardware decoder is no longer shut out by a burst of dropped frames at the start), IPTV titles found again for providers with big lists, and your IPTV provider listed first on a title page."
 }
