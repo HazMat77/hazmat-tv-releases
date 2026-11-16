@@ -1,10 +1,10 @@
 {
-  "versionCode": 201,
-  "versionName": "1.16.128",
-  "downloadUrl": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.128/HazMatTV-1.16.128-win64.zip",
-  "downloadUrlWindows": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.128/HazMatTV-1.16.128-win64.zip",
-  "sha256Windows": "56a79c8fc71158077379f7d45537d755a08cce89b51eadd8a6188f3750389d15",
-  "downloadUrlLinux": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.128/HazMatTV-1.16.128-linux-x64.tar.gz",
-  "sha256Linux": "41571da9cb6737f63556cacc64746eadf04e9ce1eb56f1cde0b4426da2623190",
-  "releaseNotes": "Smoother 4K playback (the hardware decoder is no longer shut out by a burst of dropped frames at the start), IPTV titles found again for providers with big lists, and your IPTV provider listed first on a title page."
+  "versionCode": 204,
+  "versionName": "1.16.131",
+  "downloadUrl": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.131/HazMatTV-1.16.131-win64.zip",
+  "downloadUrlWindows": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.131/HazMatTV-1.16.131-win64.zip",
+  "sha256Windows": "77035009a7de18e0af844a1df64a1bda3f1879506d4800a27a2a88df74207995",
+  "downloadUrlLinux": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.131/HazMatTV-1.16.131-linux-x64.tar.gz",
+  "sha256Linux": "be465f034bc97dd3b1d170a249a66829d5ecea1373869e624034739c4c1c6894",
+  "releaseNotes": "Holiday layout (Settings > Layout), fourteen more JAV sites with English titles, Put.io and LinkSnappy debrid services, same-day release picks, and DaddyLive channels that play again and open faster."
 }
