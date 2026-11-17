@@ -1,10 +1,10 @@
 {
-  "versionCode": 208,
-  "versionName": "1.16.135",
-  "downloadUrl": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.135/HazMatTV-1.16.135-win64.zip",
-  "downloadUrlWindows": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.135/HazMatTV-1.16.135-win64.zip",
-  "sha256Windows": "74257466e97e3443670c58a81cd1ecf6f7c5305f5b71490721d417f81d1d67df",
-  "downloadUrlLinux": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.135/HazMatTV-1.16.135-linux-x64.tar.gz",
-  "sha256Linux": "3027d0190aa1b122bf4b488c1fc47b33d74f6e1ea8c43b1e08b62d57d92acf14",
-  "releaseNotes": "1.16.135 - Fixed: clicking Fireplace in the top bar now opens the Fireplace menu (it did nothing on Home). Fixed: Fireplace videos now play on the PC app. Fixed: a UFC card or race that is over no longer stays in the Sports widgets."
+  "versionCode": 210,
+  "versionName": "1.16.137",
+  "downloadUrl": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.137/HazMatTV-1.16.137-win64.zip",
+  "downloadUrlWindows": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.137/HazMatTV-1.16.137-win64.zip",
+  "sha256Windows": "5e87a16cc4a714ecc132e791bfda7359e5ff676ce9fea7d2b51ef2b18c26549b",
+  "downloadUrlLinux": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.137/HazMatTV-1.16.137-linux-x64.tar.gz",
+  "sha256Linux": "0c5a8164345ee65b9728d7a0c8307fb518af6a1620f5bfc6a6343149b784e5fa",
+  "releaseNotes": "1.16.137 - New: BinTV Live and StreamEast 2 sources. New: the developer can answer a report on your screen. Improved: backup addresses for sports and live TV sources, Pirate Bay fallback."
 }
