@@ -1,10 +1,10 @@
 {
-  "versionCode": 213,
-  "versionName": "1.16.139",
-  "downloadUrl": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.139/HazMatTV-1.16.139-win64.zip",
-  "downloadUrlWindows": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.139/HazMatTV-1.16.139-win64.zip",
-  "sha256Windows": "534491cf6310a6b126b7d2475640c867785dcb76c4141eef60a51dd7552d17d9",
-  "downloadUrlLinux": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.139/HazMatTV-1.16.139-linux-x64.tar.gz",
-  "sha256Linux": "50200e979e1aa6c270938b0fcf745fe7be5e28c64d889dd8df3a79f60ca71d93",
-  "releaseNotes": "1.16.139 - Fixed: Usenet (NZB) results show for Premiumize and TorBox users and no longer fill with junk files; adult Usenet searches find names written without spaces. Changed: private-tracker releases play through TorBox Pro only, so a share ratio is kept."
+  "versionCode": 215,
+  "versionName": "1.16.141",
+  "downloadUrl": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.141/HazMatTV-1.16.141-win64.zip",
+  "downloadUrlWindows": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.141/HazMatTV-1.16.141-win64.zip",
+  "sha256Windows": "4b6a7a2d48e1711d46726481841bc02e00a9b21c1c380537442e9fa1ac2496ca",
+  "downloadUrlLinux": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.141/HazMatTV-1.16.141-linux-x64.tar.gz",
+  "sha256Linux": "947550e59ab6de855338d76f2fb35d86c71f2ab13f0853988f3bb004bdad270a",
+  "releaseNotes": "1.16.141 - New: CZTeam, a private tracker, can be linked in Settings > Premium Services > Private trackers with your account passkey; its releases play through TorBox only. Fixed: private-tracker releases were being cut from the source list, and ones TorBox has no server free for are now queued on TorBox. Removed: the Before you start screen on first launch."
 }
