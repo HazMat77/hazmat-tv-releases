@@ -1,10 +1,10 @@
 {
-  "versionCode": 210,
-  "versionName": "1.16.137",
-  "downloadUrl": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.137/HazMatTV-1.16.137-win64.zip",
-  "downloadUrlWindows": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.137/HazMatTV-1.16.137-win64.zip",
-  "sha256Windows": "5e87a16cc4a714ecc132e791bfda7359e5ff676ce9fea7d2b51ef2b18c26549b",
-  "downloadUrlLinux": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.137/HazMatTV-1.16.137-linux-x64.tar.gz",
-  "sha256Linux": "0c5a8164345ee65b9728d7a0c8307fb518af6a1620f5bfc6a6343149b784e5fa",
-  "releaseNotes": "1.16.137 - New: BinTV Live and StreamEast 2 sources. New: the developer can answer a report on your screen. Improved: backup addresses for sports and live TV sources, Pirate Bay fallback."
+  "versionCode": 211,
+  "versionName": "1.16.138",
+  "downloadUrl": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.138/HazMatTV-1.16.138-win64.zip",
+  "downloadUrlWindows": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.138/HazMatTV-1.16.138-win64.zip",
+  "sha256Windows": "e65b0f3173d13dbb7d1ecc50967457f5e1bed6181af2a7d908b3ae6ec34114f0",
+  "downloadUrlLinux": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.138/HazMatTV-1.16.138-linux-x64.tar.gz",
+  "sha256Linux": "cba0f2f759ec2cd9a9ce3665b4aeed52be918fb0e7de3bd711f636dcfcae90b8",
+  "releaseNotes": "1.16.138 - New: NBAbite and TotalSportek game sources (NBA, NFL, NHL, soccer, cricket), Bitcq magnet index. Fixed: misspelled team names on listing sites still match. Improved: more Pirate Bay and YTS fallbacks."
 }
