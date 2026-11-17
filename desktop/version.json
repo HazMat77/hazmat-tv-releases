@@ -1,10 +1,10 @@
 {
-  "versionCode": 206,
-  "versionName": "1.16.133",
-  "downloadUrl": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.133/HazMatTV-1.16.133-win64.zip",
-  "downloadUrlWindows": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.133/HazMatTV-1.16.133-win64.zip",
-  "sha256Windows": "c350b8378aec297560d0dfa8e4f885da513a63e3817ddc3064ce7780139f4035",
-  "downloadUrlLinux": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.133/HazMatTV-1.16.133-linux-x64.tar.gz",
-  "sha256Linux": "b056ea32ff4b828f8f8e5ddd8a560319366b95f555143d3d2c466e2d67447874",
-  "releaseNotes": "1.16.133 - New: Fireplace in the top bar: six fireplace videos (two in 8K, two in 4K, two in 1080p) that play inside the app. New: when the player controls are on screen they also show the time on your device and the time the video will finish. Changed: trailers now play inside the app instead of opening the YouTube app, and leaving the app stops every video that is playing. Fixed: the HappyFappy login now asks for the password after the username (and the screen scrolls so every field can be reached). Fixed: a video that loses its connection part-way (a busy Plex or file-host server, a Wi-Fi drop) or is asked to jump to a part the host will not serve now picks up again where it was, instead of stopping with a source error."
+  "versionCode": 208,
+  "versionName": "1.16.135",
+  "downloadUrl": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.135/HazMatTV-1.16.135-win64.zip",
+  "downloadUrlWindows": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.135/HazMatTV-1.16.135-win64.zip",
+  "sha256Windows": "74257466e97e3443670c58a81cd1ecf6f7c5305f5b71490721d417f81d1d67df",
+  "downloadUrlLinux": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.135/HazMatTV-1.16.135-linux-x64.tar.gz",
+  "sha256Linux": "3027d0190aa1b122bf4b488c1fc47b33d74f6e1ea8c43b1e08b62d57d92acf14",
+  "releaseNotes": "1.16.135 - Fixed: clicking Fireplace in the top bar now opens the Fireplace menu (it did nothing on Home). Fixed: Fireplace videos now play on the PC app. Fixed: a UFC card or race that is over no longer stays in the Sports widgets."
 }
