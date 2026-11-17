@@ -1,10 +1,10 @@
 {
-  "versionCode": 211,
-  "versionName": "1.16.138",
-  "downloadUrl": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.138/HazMatTV-1.16.138-win64.zip",
-  "downloadUrlWindows": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.138/HazMatTV-1.16.138-win64.zip",
-  "sha256Windows": "e65b0f3173d13dbb7d1ecc50967457f5e1bed6181af2a7d908b3ae6ec34114f0",
-  "downloadUrlLinux": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.138/HazMatTV-1.16.138-linux-x64.tar.gz",
-  "sha256Linux": "cba0f2f759ec2cd9a9ce3665b4aeed52be918fb0e7de3bd711f636dcfcae90b8",
-  "releaseNotes": "1.16.138 - New: NBAbite and TotalSportek game sources (NBA, NFL, NHL, soccer, cricket), Bitcq magnet index. Fixed: misspelled team names on listing sites still match. Improved: more Pirate Bay and YTS fallbacks."
+  "versionCode": 213,
+  "versionName": "1.16.139",
+  "downloadUrl": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.139/HazMatTV-1.16.139-win64.zip",
+  "downloadUrlWindows": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.139/HazMatTV-1.16.139-win64.zip",
+  "sha256Windows": "534491cf6310a6b126b7d2475640c867785dcb76c4141eef60a51dd7552d17d9",
+  "downloadUrlLinux": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.139/HazMatTV-1.16.139-linux-x64.tar.gz",
+  "sha256Linux": "50200e979e1aa6c270938b0fcf745fe7be5e28c64d889dd8df3a79f60ca71d93",
+  "releaseNotes": "1.16.139 - Fixed: Usenet (NZB) results show for Premiumize and TorBox users and no longer fill with junk files; adult Usenet searches find names written without spaces. Changed: private-tracker releases play through TorBox Pro only, so a share ratio is kept."
 }
