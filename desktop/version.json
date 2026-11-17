@@ -1,10 +1,10 @@
 {
-  "versionCode": 215,
-  "versionName": "1.16.141",
-  "downloadUrl": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.141/HazMatTV-1.16.141-win64.zip",
-  "downloadUrlWindows": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.141/HazMatTV-1.16.141-win64.zip",
-  "sha256Windows": "4b6a7a2d48e1711d46726481841bc02e00a9b21c1c380537442e9fa1ac2496ca",
-  "downloadUrlLinux": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.141/HazMatTV-1.16.141-linux-x64.tar.gz",
-  "sha256Linux": "947550e59ab6de855338d76f2fb35d86c71f2ab13f0853988f3bb004bdad270a",
-  "releaseNotes": "1.16.141 - New: CZTeam, a private tracker, can be linked in Settings > Premium Services > Private trackers with your account passkey; its releases play through TorBox only. Fixed: private-tracker releases were being cut from the source list, and ones TorBox has no server free for are now queued on TorBox. Removed: the Before you start screen on first launch."
+  "versionCode": 217,
+  "versionName": "1.16.143",
+  "downloadUrl": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.143/HazMatTV-1.16.143-win64.zip",
+  "downloadUrlWindows": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.143/HazMatTV-1.16.143-win64.zip",
+  "sha256Windows": "0e7f2a5a01eaadb2d7374c10a40f82a4bc623db38f5dcb9bd0d46819ac023c65",
+  "downloadUrlLinux": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.143/HazMatTV-1.16.143-linux-x64.tar.gz",
+  "sha256Linux": "0d85f7edd45ea9acf54597be632d5fa73e3fb29b87408a7ed6c7dea9757b8f2c",
+  "releaseNotes": "1.16.143 - New: the split screen can now put any section on a tile: Anime, the Sports menu, Replays, Radio, Adult (when it is on, with its PIN) and Fireplace, next to live channels, films, shows and today games."
 }
