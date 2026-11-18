@@ -1,10 +1,10 @@
 {
-  "versionCode": 219,
-  "versionName": "1.16.145",
-  "downloadUrl": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.145/HazMatTV-1.16.145-win64.zip",
-  "downloadUrlWindows": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.145/HazMatTV-1.16.145-win64.zip",
-  "sha256Windows": "90982340174c16606289f146902816830d979b7ac9849f40ccceab268877cce1",
-  "downloadUrlLinux": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.145/HazMatTV-1.16.145-linux-x64.tar.gz",
-  "sha256Linux": "c04995e6339b27704bf50d896fcae1a0f99577d1ec9e1e6fe1dedc3e12aa7855",
-  "releaseNotes": "1.16.145 - New: request a movie or TV show (Movies or TV Shows, + Request at the top) and One Click Requests, which plays a requested title by itself with the best source. New: Settings > Internet speed test. Changed: lists of sources show debrid links first, then IPTV, then free links."
+  "versionCode": 221,
+  "versionName": "1.16.147",
+  "downloadUrl": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.147/HazMatTV-1.16.147-win64.zip",
+  "downloadUrlWindows": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.147/HazMatTV-1.16.147-win64.zip",
+  "sha256Windows": "5b7c026c01c2b6ea2545f8e511f53f2be6b7c6ee8785a20de2feb96da952ba58",
+  "downloadUrlLinux": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.147/HazMatTV-1.16.147-linux-x64.tar.gz",
+  "sha256Linux": "960232d15dee053cf29da899fa32f67767441148124e2f04f252c91e9a074af4",
+  "releaseNotes": "1.16.147 - Fixed: One Click Requests now starts the best link by itself and never shows the list of links; it plays as soon as a good link is found. If no link is available yet it says so and offers Try again."
 }
