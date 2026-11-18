@@ -1,10 +1,10 @@
 {
-  "versionCode": 221,
-  "versionName": "1.16.147",
-  "downloadUrl": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.147/HazMatTV-1.16.147-win64.zip",
-  "downloadUrlWindows": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.147/HazMatTV-1.16.147-win64.zip",
-  "sha256Windows": "5b7c026c01c2b6ea2545f8e511f53f2be6b7c6ee8785a20de2feb96da952ba58",
-  "downloadUrlLinux": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.147/HazMatTV-1.16.147-linux-x64.tar.gz",
-  "sha256Linux": "960232d15dee053cf29da899fa32f67767441148124e2f04f252c91e9a074af4",
-  "releaseNotes": "1.16.147 - Fixed: One Click Requests now starts the best link by itself and never shows the list of links; it plays as soon as a good link is found. If no link is available yet it says so and offers Try again."
+  "versionCode": 223,
+  "versionName": "1.16.149",
+  "downloadUrl": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.149/HazMatTV-1.16.149-win64.zip",
+  "downloadUrlWindows": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.149/HazMatTV-1.16.149-win64.zip",
+  "sha256Windows": "a3b0aa989372882f51ecee8c85dba9b736eef1721714bea9904356092788eb1c",
+  "downloadUrlLinux": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.149/HazMatTV-1.16.149-linux-x64.tar.gz",
+  "sha256Linux": "298efc993af2b7d0ca1118ada4d749caf43ab6aba05066fe8f5a74733387dc68",
+  "releaseNotes": "1.16.149 - New: Settings > Support project > Pay by card (QR code; card, Google Pay or Apple Pay, choose how many 5-dollar items)."
 }
