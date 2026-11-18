@@ -1,10 +1,10 @@
 {
-  "versionCode": 217,
-  "versionName": "1.16.143",
-  "downloadUrl": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.143/HazMatTV-1.16.143-win64.zip",
-  "downloadUrlWindows": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.143/HazMatTV-1.16.143-win64.zip",
-  "sha256Windows": "0e7f2a5a01eaadb2d7374c10a40f82a4bc623db38f5dcb9bd0d46819ac023c65",
-  "downloadUrlLinux": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.143/HazMatTV-1.16.143-linux-x64.tar.gz",
-  "sha256Linux": "0d85f7edd45ea9acf54597be632d5fa73e3fb29b87408a7ed6c7dea9757b8f2c",
-  "releaseNotes": "1.16.143 - New: the split screen can now put any section on a tile: Anime, the Sports menu, Replays, Radio, Adult (when it is on, with its PIN) and Fireplace, next to live channels, films, shows and today games."
+  "versionCode": 219,
+  "versionName": "1.16.145",
+  "downloadUrl": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.145/HazMatTV-1.16.145-win64.zip",
+  "downloadUrlWindows": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.145/HazMatTV-1.16.145-win64.zip",
+  "sha256Windows": "90982340174c16606289f146902816830d979b7ac9849f40ccceab268877cce1",
+  "downloadUrlLinux": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.145/HazMatTV-1.16.145-linux-x64.tar.gz",
+  "sha256Linux": "c04995e6339b27704bf50d896fcae1a0f99577d1ec9e1e6fe1dedc3e12aa7855",
+  "releaseNotes": "1.16.145 - New: request a movie or TV show (Movies or TV Shows, + Request at the top) and One Click Requests, which plays a requested title by itself with the best source. New: Settings > Internet speed test. Changed: lists of sources show debrid links first, then IPTV, then free links."
 }
