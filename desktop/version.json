@@ -1,10 +1,10 @@
 {
-  "versionCode": 223,
-  "versionName": "1.16.149",
-  "downloadUrl": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.149/HazMatTV-1.16.149-win64.zip",
-  "downloadUrlWindows": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.149/HazMatTV-1.16.149-win64.zip",
-  "sha256Windows": "a3b0aa989372882f51ecee8c85dba9b736eef1721714bea9904356092788eb1c",
-  "downloadUrlLinux": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.149/HazMatTV-1.16.149-linux-x64.tar.gz",
-  "sha256Linux": "298efc993af2b7d0ca1118ada4d749caf43ab6aba05066fe8f5a74733387dc68",
-  "releaseNotes": "1.16.149 - New: Settings > Support project > Pay by card (QR code; card, Google Pay or Apple Pay, choose how many 5-dollar items)."
+  "versionCode": 225,
+  "versionName": "1.16.151",
+  "downloadUrl": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.151/HazMatTV-1.16.151-win64.zip",
+  "downloadUrlWindows": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.151/HazMatTV-1.16.151-win64.zip",
+  "sha256Windows": "44fcff9b5f6f4f04243cc03f50a5850364f11c601a909092c7f0c767ad0cf336",
+  "downloadUrlLinux": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.151/HazMatTV-1.16.151-linux-x64.tar.gz",
+  "sha256Linux": "baf8344f8f3455055a4e807fd23bfd2b54472301014535b3f020007a59b2f8bd",
+  "releaseNotes": "1.16.151 - New: Settings > Storage and speed (sizes of the saved data and a Clear button); old copies are trimmed in the background."
 }
