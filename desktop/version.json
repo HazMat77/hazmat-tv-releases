@@ -1,10 +1,10 @@
 {
-  "versionCode": 225,
-  "versionName": "1.16.151",
-  "downloadUrl": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.151/HazMatTV-1.16.151-win64.zip",
-  "downloadUrlWindows": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.151/HazMatTV-1.16.151-win64.zip",
-  "sha256Windows": "44fcff9b5f6f4f04243cc03f50a5850364f11c601a909092c7f0c767ad0cf336",
-  "downloadUrlLinux": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.151/HazMatTV-1.16.151-linux-x64.tar.gz",
-  "sha256Linux": "baf8344f8f3455055a4e807fd23bfd2b54472301014535b3f020007a59b2f8bd",
-  "releaseNotes": "1.16.151 - New: Settings > Storage and speed (sizes of the saved data and a Clear button); old copies are trimmed in the background."
+  "versionCode": 226,
+  "versionName": "1.16.153",
+  "downloadUrl": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.153/HazMatTV-1.16.153-win64.zip",
+  "downloadUrlWindows": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.153/HazMatTV-1.16.153-win64.zip",
+  "sha256Windows": "6a60e86e6c51cf0f0278cb3d79da791e50e7416983b47bc0c7287ce84071d716",
+  "downloadUrlLinux": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.153/HazMatTV-1.16.153-linux-x64.tar.gz",
+  "sha256Linux": "aa731fc3e40a9cc24eb2c21215287981e0199485b4fa2d8a2614a5feea76dee5",
+  "releaseNotes": "1.16.153 - New: a newer video player, faster source lists and quicker link starts; broken-link reports carry more detail."
 }
