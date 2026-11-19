@@ -1,10 +1,10 @@
 {
-  "versionCode": 228,
-  "versionName": "1.16.155",
-  "downloadUrl": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.155/HazMatTV-1.16.155-win64.zip",
-  "downloadUrlWindows": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.155/HazMatTV-1.16.155-win64.zip",
-  "sha256Windows": "6eea1e9ed42f60e0cd42f6e812144b3a45e7dd989f4a956785724e6fc4811cd9",
-  "downloadUrlLinux": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.155/HazMatTV-1.16.155-linux-x64.tar.gz",
-  "sha256Linux": "f7ef3c5f184a9790168aa142c59b914ad95e7e895e6dff77a1b7f2147f671c22",
-  "releaseNotes": "1.16.155 - Fixed: a link no longer fails just because your IPTV provider still has the last stream open; it is asked again a few times first. The source list keeps the best quality at the top as links arrive."
+  "versionCode": 229,
+  "versionName": "1.16.156",
+  "downloadUrl": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.156/HazMatTV-1.16.156-win64.zip",
+  "downloadUrlWindows": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.156/HazMatTV-1.16.156-win64.zip",
+  "sha256Windows": "c4d01817d176f0018ac71d794e15a254671c7a7e7c0705d1c042e52e926decdc",
+  "downloadUrlLinux": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.156/HazMatTV-1.16.156-linux-x64.tar.gz",
+  "sha256Linux": "564d4b875dd60de47c0f4fc7fe799f4caad2de91b7b868f05bc850e011be26ff",
+  "releaseNotes": "1.16.156 - New: a Scenes row on movie and show pages, and adult films from AdultDVDEmpire open a page first (cover, year, scene types, cast photos, scene pictures, trailer). Fixed: the Content Advisory works again and is much more detailed."
 }
