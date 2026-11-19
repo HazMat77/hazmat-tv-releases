@@ -1,10 +1,10 @@
 {
-  "versionCode": 226,
-  "versionName": "1.16.153",
-  "downloadUrl": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.153/HazMatTV-1.16.153-win64.zip",
-  "downloadUrlWindows": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.153/HazMatTV-1.16.153-win64.zip",
-  "sha256Windows": "6a60e86e6c51cf0f0278cb3d79da791e50e7416983b47bc0c7287ce84071d716",
-  "downloadUrlLinux": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.153/HazMatTV-1.16.153-linux-x64.tar.gz",
-  "sha256Linux": "aa731fc3e40a9cc24eb2c21215287981e0199485b4fa2d8a2614a5feea76dee5",
-  "releaseNotes": "1.16.153 - New: a newer video player, faster source lists and quicker link starts; broken-link reports carry more detail."
+  "versionCode": 227,
+  "versionName": "1.16.154",
+  "downloadUrl": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.154/HazMatTV-1.16.154-win64.zip",
+  "downloadUrlWindows": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.154/HazMatTV-1.16.154-win64.zip",
+  "sha256Windows": "9d94adf0ae952cb70f4ead172df1158e86645f407d39ced1a13c4985fca91a54",
+  "downloadUrlLinux": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.154/HazMatTV-1.16.154-linux-x64.tar.gz",
+  "sha256Linux": "926a840c73849fc7fee9c9e56c97a448e9df78280aad5d86459e1687ae866c85",
+  "releaseNotes": "1.16.154 - New: links you are likely to pick are prepared ahead of time so they start faster; the next episode to air is shown again on running shows."
 }
