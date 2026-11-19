@@ -1,10 +1,10 @@
 {
-  "versionCode": 230,
-  "versionName": "1.16.157",
-  "downloadUrl": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.157/HazMatTV-1.16.157-win64.zip",
-  "downloadUrlWindows": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.157/HazMatTV-1.16.157-win64.zip",
-  "sha256Windows": "1b47f7536530c8c26bf8ce824b4813d489dfb28610ce685faf3e94d412b9e639",
-  "downloadUrlLinux": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.157/HazMatTV-1.16.157-linux-x64.tar.gz",
-  "sha256Linux": "d859229cf8d307e7ef9d7a770200f08d5405c31e681662060d1651fc1f44e3a9",
-  "releaseNotes": "1.16.157 - Faster: debrid links now appear one by one the moment each source finds them and your debrid service confirms they are cached, instead of all arriving together after the whole search."
+  "versionCode": 231,
+  "versionName": "1.16.158",
+  "downloadUrl": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.158/HazMatTV-1.16.158-win64.zip",
+  "downloadUrlWindows": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.158/HazMatTV-1.16.158-win64.zip",
+  "sha256Windows": "c57bb192644b98694107d04c5401c520aeada1f746eed6c9e8fb706fdd6ca7e8",
+  "downloadUrlLinux": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.158/HazMatTV-1.16.158-linux-x64.tar.gz",
+  "sha256Linux": "7341843d6dde538efe94dc8434788d55eb3ae06b976202ac671d77166beb9814",
+  "releaseNotes": "1.16.158 - New: the channels a game airs on (RDS, TSN, ESPN and the rest) are listed on the game page with their logos, and each one that has a live channel shows up as a source for the game."
 }
