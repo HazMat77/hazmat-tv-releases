@@ -1,10 +1,10 @@
 {
-  "versionCode": 229,
-  "versionName": "1.16.156",
-  "downloadUrl": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.156/HazMatTV-1.16.156-win64.zip",
-  "downloadUrlWindows": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.156/HazMatTV-1.16.156-win64.zip",
-  "sha256Windows": "c4d01817d176f0018ac71d794e15a254671c7a7e7c0705d1c042e52e926decdc",
-  "downloadUrlLinux": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.156/HazMatTV-1.16.156-linux-x64.tar.gz",
-  "sha256Linux": "564d4b875dd60de47c0f4fc7fe799f4caad2de91b7b868f05bc850e011be26ff",
-  "releaseNotes": "1.16.156 - New: a Scenes row on movie and show pages, and adult films from AdultDVDEmpire open a page first (cover, year, scene types, cast photos, scene pictures, trailer). Fixed: the Content Advisory works again and is much more detailed."
+  "versionCode": 230,
+  "versionName": "1.16.157",
+  "downloadUrl": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.157/HazMatTV-1.16.157-win64.zip",
+  "downloadUrlWindows": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.157/HazMatTV-1.16.157-win64.zip",
+  "sha256Windows": "1b47f7536530c8c26bf8ce824b4813d489dfb28610ce685faf3e94d412b9e639",
+  "downloadUrlLinux": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.157/HazMatTV-1.16.157-linux-x64.tar.gz",
+  "sha256Linux": "d859229cf8d307e7ef9d7a770200f08d5405c31e681662060d1651fc1f44e3a9",
+  "releaseNotes": "1.16.157 - Faster: debrid links now appear one by one the moment each source finds them and your debrid service confirms they are cached, instead of all arriving together after the whole search."
 }
