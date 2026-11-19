@@ -1,10 +1,10 @@
 {
-  "versionCode": 227,
-  "versionName": "1.16.154",
-  "downloadUrl": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.154/HazMatTV-1.16.154-win64.zip",
-  "downloadUrlWindows": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.154/HazMatTV-1.16.154-win64.zip",
-  "sha256Windows": "9d94adf0ae952cb70f4ead172df1158e86645f407d39ced1a13c4985fca91a54",
-  "downloadUrlLinux": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.154/HazMatTV-1.16.154-linux-x64.tar.gz",
-  "sha256Linux": "926a840c73849fc7fee9c9e56c97a448e9df78280aad5d86459e1687ae866c85",
-  "releaseNotes": "1.16.154 - New: links you are likely to pick are prepared ahead of time so they start faster; the next episode to air is shown again on running shows."
+  "versionCode": 228,
+  "versionName": "1.16.155",
+  "downloadUrl": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.155/HazMatTV-1.16.155-win64.zip",
+  "downloadUrlWindows": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.155/HazMatTV-1.16.155-win64.zip",
+  "sha256Windows": "6eea1e9ed42f60e0cd42f6e812144b3a45e7dd989f4a956785724e6fc4811cd9",
+  "downloadUrlLinux": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.155/HazMatTV-1.16.155-linux-x64.tar.gz",
+  "sha256Linux": "f7ef3c5f184a9790168aa142c59b914ad95e7e895e6dff77a1b7f2147f671c22",
+  "releaseNotes": "1.16.155 - Fixed: a link no longer fails just because your IPTV provider still has the last stream open; it is asked again a few times first. The source list keeps the best quality at the top as links arrive."
 }
