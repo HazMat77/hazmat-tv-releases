@@ -1,10 +1,10 @@
 {
-  "versionCode": 231,
-  "versionName": "1.16.158",
-  "downloadUrl": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.158/HazMatTV-1.16.158-win64.zip",
-  "downloadUrlWindows": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.158/HazMatTV-1.16.158-win64.zip",
-  "sha256Windows": "c57bb192644b98694107d04c5401c520aeada1f746eed6c9e8fb706fdd6ca7e8",
-  "downloadUrlLinux": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.158/HazMatTV-1.16.158-linux-x64.tar.gz",
-  "sha256Linux": "7341843d6dde538efe94dc8434788d55eb3ae06b976202ac671d77166beb9814",
-  "releaseNotes": "1.16.158 - New: the channels a game airs on (RDS, TSN, ESPN and the rest) are listed on the game page with their logos, and each one that has a live channel shows up as a source for the game."
+  "versionCode": 232,
+  "versionName": "1.16.159",
+  "downloadUrl": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.159/HazMatTV-1.16.159-win64.zip",
+  "downloadUrlWindows": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.159/HazMatTV-1.16.159-win64.zip",
+  "sha256Windows": "e218120bd43f4c54865b10519f6be463964b1eb3ca28248cafeadf7205718f7f",
+  "downloadUrlLinux": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.159/HazMatTV-1.16.159-linux-x64.tar.gz",
+  "sha256Linux": "a90793dbcf7d147f6e5dead29bb2b2de34c8194fc79807ee27c7fa79c73667f4",
+  "releaseNotes": "1.16.159 - New: a game's IPTV sources now also come from the channel names it is listed on (RDS, TSN, ESPN...): your IPTV live channels are searched by name, next to the guide search by game title."
 }
