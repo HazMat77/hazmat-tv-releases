@@ -1,10 +1,10 @@
 {
-  "versionCode": 232,
-  "versionName": "1.16.159",
-  "downloadUrl": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.159/HazMatTV-1.16.159-win64.zip",
-  "downloadUrlWindows": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.159/HazMatTV-1.16.159-win64.zip",
-  "sha256Windows": "e218120bd43f4c54865b10519f6be463964b1eb3ca28248cafeadf7205718f7f",
-  "downloadUrlLinux": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.159/HazMatTV-1.16.159-linux-x64.tar.gz",
-  "sha256Linux": "a90793dbcf7d147f6e5dead29bb2b2de34c8194fc79807ee27c7fa79c73667f4",
-  "releaseNotes": "1.16.159 - New: a game's IPTV sources now also come from the channel names it is listed on (RDS, TSN, ESPN...): your IPTV live channels are searched by name, next to the guide search by game title."
+  "versionCode": 233,
+  "versionName": "1.16.160",
+  "downloadUrl": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.160/HazMatTV-1.16.160-win64.zip",
+  "downloadUrlWindows": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.160/HazMatTV-1.16.160-win64.zip",
+  "sha256Windows": "3b712bcc098808147a2023f748dc7d30d90e5ff3b288ccd11b79d85510bb430d",
+  "downloadUrlLinux": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.160/HazMatTV-1.16.160-linux-x64.tar.gz",
+  "sha256Linux": "51183cf4dec23700e6af3c80d7a211ed3ebcd4bbb3eff16a37381d80a72d0bed",
+  "releaseNotes": "1.16.160 - New: Red Bull TV, a free 24/7 channel, now has its own entry in the Sports menu. Fixed: SlapStreams team matching, Lulustream/Luluvid/Luluvdo links, and Filemoon links."
 }
