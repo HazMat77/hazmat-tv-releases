@@ -1,10 +1,10 @@
 {
-  "versionCode": 233,
-  "versionName": "1.16.160",
-  "downloadUrl": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.160/HazMatTV-1.16.160-win64.zip",
-  "downloadUrlWindows": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.160/HazMatTV-1.16.160-win64.zip",
-  "sha256Windows": "3b712bcc098808147a2023f748dc7d30d90e5ff3b288ccd11b79d85510bb430d",
-  "downloadUrlLinux": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.160/HazMatTV-1.16.160-linux-x64.tar.gz",
-  "sha256Linux": "51183cf4dec23700e6af3c80d7a211ed3ebcd4bbb3eff16a37381d80a72d0bed",
-  "releaseNotes": "1.16.160 - New: Red Bull TV, a free 24/7 channel, now has its own entry in the Sports menu. Fixed: SlapStreams team matching, Lulustream/Luluvid/Luluvdo links, and Filemoon links."
+  "versionCode": 234,
+  "versionName": "1.16.161",
+  "downloadUrl": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.161/HazMatTV-1.16.161-win64.zip",
+  "downloadUrlWindows": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.161/HazMatTV-1.16.161-win64.zip",
+  "sha256Windows": "39e9ea1017999a91879108a0b10d551432383744118392828fa9aafc67589071",
+  "downloadUrlLinux": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.161/HazMatTV-1.16.161-linux-x64.tar.gz",
+  "sha256Linux": "c6f6760cac998d2802da7003869c617f084e175ef43fba8626e894cbae4ca2bf",
+  "releaseNotes": "1.16.161 - Fixed: the Windows app no longer shows a \"stopped working\" crash dialog when it updates itself - the update still ran fine underneath it."
 }
