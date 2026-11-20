@@ -1,10 +1,10 @@
 {
-  "versionCode": 234,
-  "versionName": "1.16.161",
-  "downloadUrl": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.161/HazMatTV-1.16.161-win64.zip",
-  "downloadUrlWindows": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.161/HazMatTV-1.16.161-win64.zip",
-  "sha256Windows": "39e9ea1017999a91879108a0b10d551432383744118392828fa9aafc67589071",
-  "downloadUrlLinux": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.161/HazMatTV-1.16.161-linux-x64.tar.gz",
-  "sha256Linux": "c6f6760cac998d2802da7003869c617f084e175ef43fba8626e894cbae4ca2bf",
-  "releaseNotes": "1.16.161 - Fixed: the Windows app no longer shows a \"stopped working\" crash dialog when it updates itself - the update still ran fine underneath it."
+  "versionCode": 235,
+  "versionName": "1.16.162",
+  "downloadUrl": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.162/HazMatTV-1.16.162-win64.zip",
+  "downloadUrlWindows": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.162/HazMatTV-1.16.162-win64.zip",
+  "sha256Windows": "e81f8261a8e6fe561d6b944be1921b7f1f22c46c534c397c4ab08dc004aaa6d5",
+  "downloadUrlLinux": "https://github.com/HazMat77/hazmat-tv-releases/releases/download/desktop-1.16.162/HazMatTV-1.16.162-linux-x64.tar.gz",
+  "sha256Linux": "66575a5beefbee5410cec6fbcd050f4ddcd0301f453c771cee93e234676ca4a0",
+  "releaseNotes": "1.16.162 - Faster on Android: repeat site lookups within one search now reuse the address instead of resolving it again every time."
 }
