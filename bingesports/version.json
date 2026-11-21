@@ -1,8 +1,8 @@
 {
-  "versionCode": 8,
-  "versionName": "1.0.7",
-  "downloadUrl": "https://raw.githubusercontent.com/HazMat77/hazmat-tv-releases/main/bingesports/BingeSports-1.0.7-universal.apk",
+  "versionCode": 9,
+  "versionName": "1.0.8",
+  "downloadUrl": "https://raw.githubusercontent.com/HazMat77/hazmat-tv-releases/main/bingesports/BingeSports-1.0.8-universal.apk",
   "downloadUrlArm64": "",
   "downloadUrlArm32": "",
-  "releaseNotes": "New: MMA, College Football, Soccer, F1, MotoGP and WWE pages. MMA/F1/MotoGP/WWE list their events; opening one shows the card (fighters with photos, records and weight classes, or the race sessions). Every game and event has a Find streams button that searches the Starfleet sources and plays the one you pick. Hidden web player fallback for sites that hide their streams. New: NHL, NFL, NBA and MLB pages with both teams' logos, live scores and game times; each game opens a page with records, venue, TV channel and top players. New app icon and home backdrop. All remaining Full Player text renamed. Fixed: in-app update check was pointed at the old deleted fullplayer/version.json, so it never found anything newer. Binge Sports branding throughout (was still showing Full Player/Full IPTV in places), restored the black branded backdrop with Binge Sports styling, sport-category-only top bar (Live TV/Movies/TV Shows/TV Guide/My List/Recordings removed)."
+  "releaseNotes": "Fixed: streams the hidden web player finds now go through the resolvers before the player opens them; FalconStreams and SportSurge pages go to the web player when the resolvers cannot read them. New: MMA, College Football, Soccer, F1, MotoGP and WWE pages. MMA/F1/MotoGP/WWE list their events; opening one shows the card (fighters with photos, records and weight classes, or the race sessions). Every game and event has a Find streams button that searches the Starfleet sources and plays the one you pick. Hidden web player fallback for sites that hide their streams. New: NHL, NFL, NBA and MLB pages with both teams' logos, live scores and game times; each game opens a page with records, venue, TV channel and top players. New app icon and home backdrop. All remaining Full Player text renamed. Fixed: in-app update check was pointed at the old deleted fullplayer/version.json, so it never found anything newer. Binge Sports branding throughout (was still showing Full Player/Full IPTV in places), restored the black branded backdrop with Binge Sports styling, sport-category-only top bar (Live TV/Movies/TV Shows/TV Guide/My List/Recordings removed)."
 }
