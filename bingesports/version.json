@@ -1,8 +1,8 @@
 {
-  "versionCode": 5,
-  "versionName": "1.0.4",
-  "downloadUrl": "https://raw.githubusercontent.com/HazMat77/hazmat-tv-releases/main/bingesports/BingeSports-1.0.4-universal.apk",
+  "versionCode": 7,
+  "versionName": "1.0.6",
+  "downloadUrl": "https://raw.githubusercontent.com/HazMat77/hazmat-tv-releases/main/bingesports/BingeSports-1.0.6-universal.apk",
   "downloadUrlArm64": "",
   "downloadUrlArm32": "",
-  "releaseNotes": "Fixed: in-app update check was pointed at the old deleted fullplayer/version.json, so it never found anything newer. Binge Sports branding throughout (was still showing Full Player/Full IPTV in places), restored the black branded backdrop with Binge Sports styling, sport-category-only top bar (Live TV/Movies/TV Shows/TV Guide/My List/Recordings removed)."
+  "releaseNotes": "New: NHL, NFL, NBA and MLB pages with both teams' logos, live scores and game times; each game opens a page with records, venue, TV channel and top players. New app icon and home backdrop. All remaining Full Player text renamed. Fixed: in-app update check was pointed at the old deleted fullplayer/version.json, so it never found anything newer. Binge Sports branding throughout (was still showing Full Player/Full IPTV in places), restored the black branded backdrop with Binge Sports styling, sport-category-only top bar (Live TV/Movies/TV Shows/TV Guide/My List/Recordings removed)."
 }
