@@ -1,8 +1,8 @@
 {
-  "versionCode": "252",
-  "versionName": "1.16.179",
-  "downloadUrl": "https://raw.githubusercontent.com/HazMat77/hazmat-tv-releases/main/HazMatTV-1.16.179-universal.apk",
+  "versionCode": "253",
+  "versionName": "1.16.180",
+  "downloadUrl": "https://raw.githubusercontent.com/HazMat77/hazmat-tv-releases/main/HazMatTV-1.16.180-universal.apk",
   "downloadUrlArm64": "",
   "downloadUrlArm32": "",
-  "releaseNotes": "Fixed: video always uses the TV box's hardware decoder. The software decoder that took over after a few dropped frames, and made some live streams choppy, is no longer used.\n\nFixed: sports links from MethStreams and OnHockey that waited in the stream list for a minute or two no longer fail with a source error; they get a fresh address when picked.\n\nFixed: web-player links whose page only frames a dead site are no longer offered.\n\nMore streams for every game: OnHockey links are no longer cut off by slower sources, Hoofoot is back on its new address, iStreamEast works again on its new site, FalconStreams follows its new address. Offline channels no longer raise a source error. The Cinevid page entry (which did not play) is replaced by the same channels as direct links."
+  "releaseNotes": "Fixed: live-game web-player links are no longer listed. Every one of those pages waits for a button press (and opens an ad) before any video starts, so they could never play.\n\nFixed: video always uses the TV box's hardware decoder. The software decoder that took over after a few dropped frames, and made some live streams choppy, is no longer used.\n\nFixed: sports links from MethStreams and OnHockey that waited in the stream list for a minute or two no longer fail with a source error; they get a fresh address when picked.\n\nMore streams for every game: OnHockey links are no longer cut off by slower sources, Hoofoot is back on its new address, iStreamEast and FalconStreams follow their new addresses. Offline channels no longer raise a source error."
 }
