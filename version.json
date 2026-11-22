@@ -1,8 +1,8 @@
 {
-  "versionCode": "257",
-  "versionName": "1.16.184",
-  "downloadUrl": "https://raw.githubusercontent.com/HazMat77/hazmat-tv-releases/main/HazMatTV-1.16.184-universal.apk",
+  "versionCode": "265",
+  "versionName": "1.16.192",
+  "downloadUrl": "https://raw.githubusercontent.com/HazMat77/hazmat-tv-releases/main/HazMatTV-1.16.192-universal.apk",
   "downloadUrlArm64": "",
   "downloadUrlArm32": "",
-  "releaseNotes": "Fixed: a live-game link from a match site that waited in the list until its stream host refused it (Source error 403) is now looked up again from its player page when it is picked."
+  "releaseNotes": "New: Sports lists games from more sites - the smaller leagues of hockey, basketball and baseball, Rugby, Boxing, Golf and a More sports folder - with team logos, every live game at the top of its list, and NHL Network and WWE Network rows. New stream sources: Strikeout, VIPLeague, FawaNews, Aura Sports, WatchSports and Plavio (soccer and cricket feeds). New movie and TV source: Plavio HD (direct files, switch it in Settings > Sources). Fixed: SportsindX, PPV HD and TopEmbed links that stopped with a source error, a MotoGP weekend getting the wrong channels, and Strikeout players that would not start.\n\nFixed: a MotoGP race weekend no longer gets the F1 channel or football feeds for its links; it finds the MotoGP channels for the session that is on now or next."
 }
