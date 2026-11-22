@@ -1,8 +1,8 @@
 {
-  "versionCode": "254",
-  "versionName": "1.16.181",
-  "downloadUrl": "https://raw.githubusercontent.com/HazMat77/hazmat-tv-releases/main/HazMatTV-1.16.181-universal.apk",
+  "versionCode": "255",
+  "versionName": "1.16.182",
+  "downloadUrl": "https://raw.githubusercontent.com/HazMat77/hazmat-tv-releases/main/HazMatTV-1.16.182-universal.apk",
   "downloadUrlArm64": "",
   "downloadUrlArm32": "",
-  "releaseNotes": "Faster sports on a busy night (NBA): dead stream sites that do not connect are skipped for 10 minutes instead of making every game wait on them, and the stream hubs hand back their links without waiting on the slowest one.\n\nFixed: sportsframe.me channels (used by 720pStream, college basketball) now play.\n\nFixed: live-game web-player links are no longer listed, and video always uses the box's hardware decoder."
+  "releaseNotes": "Fixed: TimStreams games play again (its new player is read and its video pictures are unpacked), and FalconStreams links open.\n\nFaster sports: the DaddyLive and TVNow channel lookup no longer stalls for over a minute when their sites are down.\n\nFaster sports on a busy night (NBA): dead stream sites are skipped, and sportsframe.me channels now play."
 }
