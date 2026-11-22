@@ -1,8 +1,8 @@
 {
-  "versionCode": "253",
-  "versionName": "1.16.180",
-  "downloadUrl": "https://raw.githubusercontent.com/HazMat77/hazmat-tv-releases/main/HazMatTV-1.16.180-universal.apk",
+  "versionCode": "254",
+  "versionName": "1.16.181",
+  "downloadUrl": "https://raw.githubusercontent.com/HazMat77/hazmat-tv-releases/main/HazMatTV-1.16.181-universal.apk",
   "downloadUrlArm64": "",
   "downloadUrlArm32": "",
-  "releaseNotes": "Fixed: live-game web-player links are no longer listed. Every one of those pages waits for a button press (and opens an ad) before any video starts, so they could never play.\n\nFixed: video always uses the TV box's hardware decoder. The software decoder that took over after a few dropped frames, and made some live streams choppy, is no longer used.\n\nFixed: sports links from MethStreams and OnHockey that waited in the stream list for a minute or two no longer fail with a source error; they get a fresh address when picked.\n\nMore streams for every game: OnHockey links are no longer cut off by slower sources, Hoofoot is back on its new address, iStreamEast and FalconStreams follow their new addresses. Offline channels no longer raise a source error."
+  "releaseNotes": "Faster sports on a busy night (NBA): dead stream sites that do not connect are skipped for 10 minutes instead of making every game wait on them, and the stream hubs hand back their links without waiting on the slowest one.\n\nFixed: sportsframe.me channels (used by 720pStream, college basketball) now play.\n\nFixed: live-game web-player links are no longer listed, and video always uses the box's hardware decoder."
 }
