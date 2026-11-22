@@ -1,8 +1,8 @@
 {
-  "versionCode": "256",
-  "versionName": "1.16.183",
-  "downloadUrl": "https://raw.githubusercontent.com/HazMat77/hazmat-tv-releases/main/HazMatTV-1.16.183-universal.apk",
+  "versionCode": "257",
+  "versionName": "1.16.184",
+  "downloadUrl": "https://raw.githubusercontent.com/HazMat77/hazmat-tv-releases/main/HazMatTV-1.16.184-universal.apk",
   "downloadUrlArm64": "",
   "downloadUrlArm32": "",
-  "releaseNotes": "New: college basketball, football and WNBA games that are live on YouTube (tournament broadcasts, school and conference channels) list the YouTube link and play it in the app, up to 1080p."
+  "releaseNotes": "Fixed: a live-game link from a match site that waited in the list until its stream host refused it (Source error 403) is now looked up again from its player page when it is picked."
 }
