@@ -1,8 +1,8 @@
 {
-  "versionCode": "255",
-  "versionName": "1.16.182",
-  "downloadUrl": "https://raw.githubusercontent.com/HazMat77/hazmat-tv-releases/main/HazMatTV-1.16.182-universal.apk",
+  "versionCode": "256",
+  "versionName": "1.16.183",
+  "downloadUrl": "https://raw.githubusercontent.com/HazMat77/hazmat-tv-releases/main/HazMatTV-1.16.183-universal.apk",
   "downloadUrlArm64": "",
   "downloadUrlArm32": "",
-  "releaseNotes": "Fixed: TimStreams games play again (its new player is read and its video pictures are unpacked), and FalconStreams links open.\n\nFaster sports: the DaddyLive and TVNow channel lookup no longer stalls for over a minute when their sites are down.\n\nFaster sports on a busy night (NBA): dead stream sites are skipped, and sportsframe.me channels now play."
+  "releaseNotes": "New: college basketball, football and WNBA games that are live on YouTube (tournament broadcasts, school and conference channels) list the YouTube link and play it in the app, up to 1080p."
 }
