@@ -1,8 +1,8 @@
 {
-  "versionCode": "265",
-  "versionName": "1.16.192",
-  "downloadUrl": "https://raw.githubusercontent.com/HazMat77/hazmat-tv-releases/main/HazMatTV-1.16.192-universal.apk",
+  "versionCode": "266",
+  "versionName": "1.16.193",
+  "downloadUrl": "https://raw.githubusercontent.com/HazMat77/hazmat-tv-releases/main/HazMatTV-1.16.193-universal.apk",
   "downloadUrlArm64": "",
   "downloadUrlArm32": "",
-  "releaseNotes": "New: Sports lists games from more sites - the smaller leagues of hockey, basketball and baseball, Rugby, Boxing, Golf and a More sports folder - with team logos, every live game at the top of its list, and NHL Network and WWE Network rows. New stream sources: Strikeout, VIPLeague, FawaNews, Aura Sports, WatchSports and Plavio (soccer and cricket feeds). New movie and TV source: Plavio HD (direct files, switch it in Settings > Sources). Fixed: SportsindX, PPV HD and TopEmbed links that stopped with a source error, a MotoGP weekend getting the wrong channels, and Strikeout players that would not start.\n\nFixed: a MotoGP race weekend no longer gets the F1 channel or football feeds for its links; it finds the MotoGP channels for the session that is on now or next."
+  "releaseNotes": "Fixed for sports: MethStreams links are listed again and get a fresh address when you pick them (it expired within a minute before), Strikeout, VIPLeague and Plavio links are no longer dropped on a slow box, SportSurge links get more time to appear, TimStreams NFL games play, and leaving a stream no longer freezes the app.\n\nNew: Sports lists games from more sites - the smaller leagues of hockey, basketball and baseball, Rugby, Boxing, Golf and a More sports folder - with team logos, every live game at the top of its list, and NHL Network and WWE Network rows. New stream sources: Strikeout, VIPLeague, FawaNews, Aura Sports, WatchSports and Plavio (soccer and cricket feeds). New movie and TV source: Plavio HD (direct files, switch it in Settings > Sources). Fixed: SportsindX, PPV HD and TopEmbed links that stopped with a source error, a MotoGP weekend getting the wrong channels, and Strikeout players that would not start.\n\nFixed: a MotoGP race weekend no longer gets the F1 channel or football feeds for its links; it finds the MotoGP channels for the session that is on now or next."
 }
